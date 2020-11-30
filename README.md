@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am Yar from Moscow, Russia. I am Java developer.
+I am currently working on I/O tasks.
+Have a nice day.
+
 
 <!--
 **yarmail/yarmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
