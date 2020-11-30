@@ -1,7 +1,8 @@
 ### Hi there 👋
-I am Yar from Moscow, Russia. I am Java developer.
-I am currently working on I/O tasks.
-Have a nice day.
+I am Yar from Moscow, Russia. <br>
+ I am Java developer.<br>
+  I am currently working on I/O tasks.<br>
+Have a nice day.<br>
 
 
 <!--
