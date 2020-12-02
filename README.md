@@ -5,8 +5,8 @@ I am Yar from Moscow, Russia. <br>
 Have a nice day.<br>
 
 ### Get in touch
-telegram @YarTsin
-email yarmail@yandex.rru
+telegram @YarTsin <br>
+email yarmail@yandex.ru
 
 
 <!--
