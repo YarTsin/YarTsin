@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Yar from Moscow, Russia. <br>
  I am Java developer.<br>
-  I am currently working on I/O tasks.<br>
+  I am currently working on SQL tasks.<br>
 Have a nice day.<br>
 
 ### Get in touch
