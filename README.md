@@ -8,6 +8,7 @@ Have a nice day.<br>
 telegram @YarTsin <br>
 email yarmail@yandex.ru
 
+![](https://komarev.com/ghpvc/?username=yarmail)
 
 <!--
 **yarmail/yarmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
