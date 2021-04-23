@@ -1,10 +1,7 @@
+![](https://komarev.com/ghpvc/?username=yarmail)<br>
+
 ### Hi there 👋
 I am Yar from Moscow, Russia. I am Java developer. Have a nice day.
-
-### Get in touch
-telegram: @YarTsin; email: yarmail@yandex.ru <br>
-
-![](https://komarev.com/ghpvc/?username=yarmail)<br><br>
 
 ### Used tools and technologies
 - Windows<br>
@@ -13,6 +10,8 @@ telegram: @YarTsin; email: yarmail@yandex.ru <br>
 - JavaDoc, СheckStyle <br>
 - JUnit, Hamcrest, JaCoCo, Travis CI, Codecov.io<br>
 
+### Get in touch
+telegram: @YarTsin; email: yarmail@yandex.ru <br>
 
 Recent projects below
 
