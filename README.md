@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=yarmail)<br>
 
 ### Hi there 👋
-I am Yar from Moscow, Russia. I am Java developer. Have a nice day.
+I am Yar from Moscow, Russia. I am Java developer.
 
 ### Used tools and technologies
 - Windows<br>
