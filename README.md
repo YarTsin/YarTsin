@@ -1,14 +1,12 @@
 ### Hi there 👋
-I am Yar from Moscow, Russia. <br>
- I am Java developer.<br>
-  I am currently working on SQL tasks.<br>
-Have a nice day.<br>
+I am Yar from Moscow, Russia. I am Java developer. Have a nice day.
 
 ### Get in touch
-telegram @YarTsin <br>
-email yarmail@yandex.ru
+telegram: @YarTsin email: yarmail@yandex.ru
 
 ![](https://komarev.com/ghpvc/?username=yarmail)
+
+Recent projects below
 
 <!--
 **yarmail/yarmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
