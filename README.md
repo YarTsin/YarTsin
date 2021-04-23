@@ -5,10 +5,12 @@ I am Yar from Moscow, Russia. I am Java developer.
 
 ### Used tools and technologies
 - Windows<br>
-- Java Core, <br>
+- Java Core, Quartz, Jsoup<br>
+- PostgreSQL, Liquibase <br>
+- JUnit, Hamcrest, JaCoCo, Travis CI, Codecov.io<br>
 - TrackStudio, Git, IDEA, Maven <br>
 - JavaDoc, СheckStyle <br>
-- JUnit, Hamcrest, JaCoCo, Travis CI, Codecov.io<br>
+- Log4j, Slf4j <br> 
 
 ### Get in touch
 telegram: @YarTsin; email: yarmail@yandex.ru <br>
