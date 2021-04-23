@@ -2,7 +2,7 @@
 I am Yar from Moscow, Russia. I am Java developer. Have a nice day.
 
 ### Get in touch
-telegram: @YarTsin email: yarmail@yandex.ru
+telegram: @YarTsin; email: yarmail@yandex.ru
 
 ![](https://komarev.com/ghpvc/?username=yarmail)
 
