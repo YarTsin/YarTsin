@@ -6,7 +6,7 @@ I am Yar from Moscow, Russia. I am Java developer.
 ### Used tools and technologies
 - Windows<br>
 - Java Core, Quartz, Jsoup<br>
-- PostgreSQL, Liquibase <br>
+- PostgreSQL, Liquibase, JDBC<br>
 - JUnit, Hamcrest, JaCoCo, Travis CI, Codecov.io<br>
 - TrackStudio, Git, IDEA, Maven <br>
 - JavaDoc, СheckStyle <br>
