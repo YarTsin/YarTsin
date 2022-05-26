@@ -5,19 +5,26 @@ I am Yar from Moscow, Russia. I am Java developer.
 
 ### Used tools and technologies
 - Windows<br>
-- Java Core, Quartz, Jsoup<br>
+- Java Core, Java SE, Java EE (some elements)<br>
 - PostgreSQL, Liquibase, JDBC<br>
 - Mockito, JUnit, Hamcrest, JaCoCo, Travis CI, Codecov.io<br>
 - TrackStudio, Git, IDEA, Maven <br>
 - JavaDoc, СheckStyle <br>
-- Log4j, Slf4j <br> 
+- Quartz, Jsoup <br>
+- Log4j, Slf4j  
+
+### Used principles and patterns
+- MVC, REST, DAO <br>
+- IoC, DI <br>
+- SOLID (SRP, OCP, LSP, ISP, DIP) <br>
+- DRY, KISS, YAGNY <br>
+- Singleton, Bilder, Factory <br>
+- AAA, TDD, BDD, ATDD 
 
 ### Get in touch
 telegram: @YarTsin; email: yarmail@yandex.ru <br>
 
 Recent projects below
-
-
 
 <!--
 **yarmail/yarmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
