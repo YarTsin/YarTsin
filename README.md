@@ -3,23 +3,17 @@
 ### Hi there 👋
 I am Yar from Moscow, Russia. I am Java developer.
 
-### Used tools and technologies
-- Windows<br>
-- Java Core, Java SE, Java EE (some elements)<br>
-- PostgreSQL, Liquibase, JDBC<br>
-- Mockito, JUnit, Hamcrest, JaCoCo, Travis CI, Codecov.io<br>
-- TrackStudio, Git, IDEA, Maven <br>
-- JavaDoc, СheckStyle <br>
-- Quartz, Jsoup <br>
-- Log4j, Slf4j  
-
-### Used principles and patterns
-- MVC, REST, DAO <br>
-- IoC, DI <br>
-- SOLID (SRP, OCP, LSP, ISP, DIP) <br>
-- DRY, KISS, YAGNY <br>
-- Singleton, Bilder, Factory <br>
-- AAA, TDD, BDD, ATDD 
+| Used tools and technologies        | Used principles and patterns    |
+|----------------------------------- | ------------------------------- |
+| Windows                            | MVC, REST, DAO                  |
+| Java Core, Java SE, Java EE (part) | IoC, DI                         | 
+| PostgreSQL, Liquibase, JDBC        | SOLID (SRP, OCP, LSP, ISP, DIP) |
+| Mockito, JUnit, Hamcrest           | DRY, KISS, YAGNY                |
+| JaCoCo, Travis CI, Codecov.io      | Singleton, Bilder, Factory      |
+| TrackStudio, Git, IDEA, Maven      | AAA, TDD, BDD, ATDD             |
+| JavaDoc, СheckStyle                | OOP                             |
+| Quartz, Jsoup                      |                                 |
+| Log4j, Slf4j                       |                                 |
 
 ### Get in touch
 telegram: @YarTsin; email: yarmail@yandex.ru <br>
