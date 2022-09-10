@@ -1,19 +1,17 @@
-![](https://komarev.com/ghpvc/?username=yarmail)<br>
+![](https://komarev.com/ghpvc/?username=yarmail)<br/>
 
 ### Hi there 👋
 I am Yar from Moscow, Russia. I am Java developer.
 
-Used in projects:
-
-|   Java        | Spring      |  front layer   |    db layer    |   test   |   other   |
-|-------------- |-------------|----------------| ---------------|----------|-----------|
-| Java Core     | Core        |  Thymeleaf     | Hibernate, HQL | Mockito  |  JaCoCo   |
-| Java SE       | IoC, DI     |  JSTL          | jdbcTemplate   | AssertJ  | Travis CI |
-| Java EE (part)| MVC         |  js            | JDBC           | JUnit 5  | Codecov.io|
-| Jsoup         |             |                | Liquibase      | Hamcrest | Git       |
-| Log4j, Slf4j  |             |                | PostgreSQL     | JUnit 4  | Maven     |
-| JavaDoc       |             |                |                |          | СheckStyle|
-| Quartz        |             |                |                |          | Windows   |
+### Used in projects:
+**Java** - Java Core, Java SE, Java EE (part) (version 8-15)<br/>
+**Spring** - (Core, MVC) <br/>
+**front layer**  - Thymeleaf, JSTL, js <br/>
+**db layer** - Hibernate, HQL, jdbcTemplate, JDBC, Liquibase, PostgreSQL <br/>
+**test** - Mockito, JUnit 5, AssertJ,  JUnit 4, Hamcrest <br/>
+**other** - JaCoCo, Travis CI, Codecov.io <br/>
+**and other** - Jsoup, Log4j, Slf4j, JavaDoc, Quartz <br/>
+**and other** - Git, Maven, СheckStyle, Windows <br/>
 
 ### Get in touch
 telegram: @YarTsin; email: yarmail@yandex.ru <br>
