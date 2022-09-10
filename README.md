@@ -5,7 +5,7 @@ I am Yar from Moscow, Russia. I am Java developer.<br/>
 Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/>
 <hr/>
 
-### Projects:
+### Projects
 
 <a href = "https://github.com/yarmail/library"> library </a> - Автоматизация работы библиотеки с помощью Spring <br/>
 (Spring Framework, Spring MVC, Validation, Thymeleaf, jdbcTemplate)<br/>
@@ -22,7 +22,7 @@ Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/>
 (Java Core, Basic syntax, OOP, Collections Lite, Stream)
 <hr/>
 
-### Used in projects:
+### Used in projects
 **Java** - Java Core, Java SE, Java EE (part) (version 8-15)<br/>
 **Spring** - (Core, MVC) <br/>
 **front layer**  - Thymeleaf, JSTL, js <br/>
