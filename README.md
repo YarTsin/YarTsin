@@ -3,6 +3,7 @@
 ### Hello
 I am Yar from Moscow, Russia. I am Java developer.<br/>
 Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/>
+<hr/>
 
 ### Projects:
 
@@ -19,6 +20,7 @@ Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/>
 
 <a href = "https://github.com/yarmail/job4j"> Job4j </a> - Problem solving <br/>
 (Java Core, Basic syntax, OOP, Collections Lite, Stream)
+<hr/>
 
 ### Used in projects:
 **Java** - Java Core, Java SE, Java EE (part) (version 8-15)<br/>
