@@ -1,7 +1,24 @@
 ![](https://komarev.com/ghpvc/?username=yarmail)<br/>
 
-### Hi there 👋
-I am Yar from Moscow, Russia. I am Java developer.
+### Hello
+I am Yar from Moscow, Russia. I am Java developer.<br/>
+Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/>
+
+### Projects:
+
+<a href = "https://github.com/yarmail/library"> library </a> - Автоматизация работы библиотеки с помощью Spring <br/>
+(Spring Framework, Spring MVC, Validation, Thymeleaf, jdbcTemplate)<br/>
+
+<a href = "https://github.com/yarmail/job4j_threads"> job4j_threads </a> - Solving issues related to a multithreaded application <br/>
+
+<a href = "https://github.com/yarmail/job4j_grabber"> job4j_grabber </a> - Parser and aggregator of vacancies from sites <br/>
+(PostgreSQL, Quartz, Jsoup)<br/>
+
+<a href = "https://github.com/yarmail/job4j_design"> job4j_design </a> - Problem solving <br/>
+(Java SE, Data Structures and Algorithms, Input/Output system, PostgreSQL, JDBC, GC, Reference, TDD, SOLID)<br/>
+
+<a href = "https://github.com/yarmail/job4j"> Job4j </a> - Problem solving <br/>
+(Java Core, Basic syntax, OOP, Collections Lite, Stream)
 
 ### Used in projects:
 **Java** - Java Core, Java SE, Java EE (part) (version 8-15)<br/>
@@ -12,23 +29,3 @@ I am Yar from Moscow, Russia. I am Java developer.
 **other** - JaCoCo, Travis CI, Codecov.io <br/>
 **and other** - Jsoup, Log4j, Slf4j, JavaDoc, Quartz <br/>
 **and other** - Git, Maven, СheckStyle, Windows <br/>
-
-### Get in touch
-telegram: @YarTsin; email: yarmail@yandex.ru <br>
-
-Recent projects below
-
-<!--
-**yarmail/yarmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
