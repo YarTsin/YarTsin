@@ -7,18 +7,18 @@ Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/>
 
 ### Projects
 
-<a href = "https://github.com/yarmail/library"> library </a> - Автоматизация работы библиотеки с помощью Spring <br/>
+<a href = "https://github.com/yarmail/library"> **Library** </a> - Автоматизация работы библиотеки с помощью Spring <br/>
 (Spring Framework, Spring MVC, Validation, Thymeleaf, jdbcTemplate)<br/>
 
-<a href = "https://github.com/yarmail/job4j_threads"> job4j_threads </a> - Solving issues related to a multithreaded application <br/>
+<a href = "https://github.com/yarmail/job4j_threads"> **Threads** </a> - Solving issues related to a multithreaded application <br/>
 
-<a href = "https://github.com/yarmail/job4j_grabber"> job4j_grabber </a> - Parser and aggregator of vacancies from sites <br/>
+<a href = "https://github.com/yarmail/job4j_grabber"> **Grabber** </a> - Parser and aggregator of vacancies from sites <br/>
 (PostgreSQL, Quartz, Jsoup)<br/>
 
-<a href = "https://github.com/yarmail/job4j_design"> job4j_design </a> - Problem solving <br/>
+<a href = "https://github.com/yarmail/job4j_design"> **Design** </a> - Problem solving <br/>
 (Java SE, Data Structures and Algorithms, Input/Output system, PostgreSQL, JDBC, GC, Reference, TDD, SOLID)<br/>
 
-<a href = "https://github.com/yarmail/job4j"> Job4j </a> - Problem solving <br/>
+<a href = "https://github.com/yarmail/job4j"> **Basic** </a> - Problem solving <br/>
 (Java Core, Basic syntax, OOP, Collections Lite, Stream)
 <hr/>
 
