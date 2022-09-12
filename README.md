@@ -15,10 +15,10 @@ Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/>
 <a href = "https://github.com/yarmail/job4j_grabber"> **Grabber** </a> - Parser and aggregator of vacancies from sites <br/>
 (PostgreSQL, Quartz, Jsoup)<br/>
 
-<a href = "https://github.com/yarmail/job4j_design"> **Design** </a> - Problem solving <br/>
+<a href = "https://github.com/yarmail/job4j_design"> **Design** </a> - Exercises and tasks <br/>
 (Java SE, Data Structures and Algorithms, Input/Output system, PostgreSQL, JDBC, GC, Reference, TDD, SOLID)<br/>
 
-<a href = "https://github.com/yarmail/job4j"> **Basic** </a> - Problem solving <br/>
+<a href = "https://github.com/yarmail/job4j"> **Basic** </a> - Exercises and tasks <br/>
 (Java Core, Basic syntax, OOP, Collections Lite, Stream)
 <hr/>
 
