@@ -7,8 +7,12 @@ Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/>
 
 ### Projects
 
+<a href = "https://github.com/yarmail/spring_rest_service"> **Простой Spring REST сервис** </a> 
+и <a href = "https://github.com/yarmail/rest_api_client_simple"> **Java REST клиент** </a> <br/>
+(Java, Spring REST, Spring Boot, Spring Data, PostgreSQL)<br/>
+
 <a href = "https://github.com/yarmail/library"> **Library** </a> - Автоматизация работы библиотеки с помощью Spring <br/>
-(Spring Framework, Spring MVC, Validation, Thymeleaf, jdbcTemplate)<br/>
+(Spring Framework, Spring MVC, Validation, Thymeleaf, jdbcTemplate, PostgreSQL)<br/>
 
 <a href = "https://github.com/yarmail/job4j_threads"> **Threads** </a> - Solving issues related to a multithreaded application <br/>
 
@@ -18,13 +22,8 @@ Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/>
 <a href = "https://github.com/yarmail/job4j_design"> **Design** </a> - Exercises and tasks <br/>
 (Java SE, Data Structures and Algorithms, Input/Output system, PostgreSQL, JDBC, GC, Reference, TDD, SOLID)<br/>
 
-<a href = "https://github.com/yarmail/job4j"> **Basic** </a> - Exercises and tasks <br/>
-(Java Core, Basic syntax, OOP, Collections Lite, Stream)
-<hr/>
-
 ### Used in projects
-**Java** - Java Core, Java SE, Java EE (part) (version 8-15)<br/>
-**Spring** - (Core, MVC) <br/>
+**Spring** - (REST, Boot, Security, Core, MVC) <br/>
 **front layer**  - Thymeleaf, JSTL, js <br/>
 **db layer** - Hibernate, HQL, jdbcTemplate, JDBC, Liquibase, PostgreSQL <br/>
 **test** - Mockito, JUnit 5, AssertJ,  JUnit 4, Hamcrest <br/>
