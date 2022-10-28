@@ -21,11 +21,12 @@ Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/>
 
 <a href = "https://github.com/yarmail/job4j_design"> **Design** </a> - Exercises and tasks <br/>
 (Java SE, Data Structures and Algorithms, Input/Output system, PostgreSQL, JDBC, GC, Reference, TDD, SOLID)<br/>
+<hr/>
 
 ### Used in projects
 **Spring** - (REST, Boot, Security, Core, MVC) <br/>
-**front layer**  - Thymeleaf, JSTL, js <br/>
 **db layer** - Hibernate, HQL, jdbcTemplate, JDBC, Liquibase, PostgreSQL <br/>
+**front layer**  - Thymeleaf, JSTL, js <br/>
 **test** - Mockito, JUnit 5, AssertJ,  JUnit 4, Hamcrest <br/>
 **other** - JaCoCo, Travis CI, Codecov.io <br/>
 **and other** - Jsoup, Log4j, Slf4j, JavaDoc, Quartz <br/>
