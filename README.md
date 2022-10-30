@@ -3,7 +3,8 @@
 ### Hello
 I am Yar from Moscow, Russia. I am Java developer.<br/>
 Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/>
-<hr/>
+
+..............................................................
 
 ### Projects
 
@@ -20,8 +21,10 @@ Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/>
 (PostgreSQL, Quartz, Jsoup)<br/>
 
 <a href = "https://github.com/yarmail/job4j_design"> **Design** </a> - Exercises and tasks <br/>
-(Java SE, Data Structures and Algorithms, Input/Output system, PostgreSQL, JDBC, GC, Reference, TDD, SOLID)<br/>
-<hr/>
+(Java SE, Data Structures and Algorithms, Input/Output system, <br/>
+PostgreSQL, JDBC, GC, Reference, TDD, SOLID)<br/>
+
+..............................................................
 
 ### Used in projects
 **Spring** - (REST, Boot, Security, Core, MVC) <br/>
