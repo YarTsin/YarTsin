@@ -1,12 +1,25 @@
 ![](https://komarev.com/ghpvc/?username=yarmail)<br/>
 
 ### Hello
-I am Yar from Moscow, Russia. I am Java developer.<br/>
+I am Yar. I am Java developer.<br/>
 Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/>
 
 ..............................................................
 
-### Projects
+### Technologies used
+
+**Spring** - (REST, Boot, Security, Data, Core, MVC, Devtools) <br/>
+**db layer** - Hibernate, HQL, jdbcTemplate, JDBC, Liquibase<br/>
+**db** - PostgreSQL, H2, HQLDB <br/>
+**front layer**  - Thymeleaf, JSTL, js, Bootstrap <br/>
+**test** - Mockito, JUnit 5, AssertJ,  JUnit 4, Hamcrest <br/>
+**other** - JaCoCo, Travis CI, Codecov.io <br/>
+Jsoup, Log4j, Slf4j, JavaDoc, Quartz <br/>
+Git, Maven, СheckStyle, Windows <br/>
+
+..............................................................
+
+### Use of technology in projects
 
 <a href = "https://github.com/yarmail/spring_rest_service"> **Простой Spring REST сервис** </a> 
 и <a href = "https://github.com/yarmail/rest_api_client_simple"> **Java REST клиент** </a> <br/>
@@ -15,7 +28,8 @@ Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/>
 <a href = "https://github.com/yarmail/library"> **Library** </a> - Автоматизация работы библиотеки с помощью Spring <br/>
 (Spring Framework, Spring MVC, Validation, Thymeleaf, jdbcTemplate, PostgreSQL)<br/>
 
-<a href = "https://github.com/yarmail/job4j_threads"> **Threads** </a> - Solving issues related to a multithreaded application <br/>
+<a href = "https://github.com/yarmail/job4j_threads"> **DreamJob** </a> - Приложение по поиску работы <br/>
+(Spring Boot, Thymeleaf, Bootstrap, Junit5, Assertj, Liquibase, PostgreSQL, H2)<br/>
 
 <a href = "https://github.com/yarmail/job4j_grabber"> **Grabber** </a> - Parser and aggregator of vacancies from sites <br/>
 (PostgreSQL, Quartz, Jsoup)<br/>
@@ -23,14 +37,3 @@ Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/>
 <a href = "https://github.com/yarmail/job4j_design"> **Design** </a> - Exercises and tasks <br/>
 (Java SE, Data Structures and Algorithms, Input/Output system, <br/>
 PostgreSQL, JDBC, GC, Reference, TDD, SOLID)<br/>
-
-..............................................................
-
-### Used in projects
-**Spring** - (REST, Boot, Security, Core, MVC) <br/>
-**db layer** - Hibernate, HQL, jdbcTemplate, JDBC, Liquibase, PostgreSQL <br/>
-**front layer**  - Thymeleaf, JSTL, js <br/>
-**test** - Mockito, JUnit 5, AssertJ,  JUnit 4, Hamcrest <br/>
-**other** - JaCoCo, Travis CI, Codecov.io <br/>
-**and other** - Jsoup, Log4j, Slf4j, JavaDoc, Quartz <br/>
-**and other** - Git, Maven, СheckStyle, Windows <br/>
