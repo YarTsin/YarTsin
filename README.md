@@ -28,7 +28,7 @@ Git, Maven, СheckStyle, Windows <br/>
 <a href = "https://github.com/yarmail/library"> **Library** </a> - Автоматизация работы библиотеки с помощью Spring <br/>
 (Spring Framework, Spring MVC, Validation, Thymeleaf, jdbcTemplate, PostgreSQL)<br/>
 
-<a href = "https://github.com/yarmail/job4j_threads"> **DreamJob** </a> - Приложение по поиску работы <br/>
+<a href = "https://github.com/yarmail/dreamjob"> **DreamJob** </a> - Приложение по поиску работы <br/>
 (Spring Boot, Thymeleaf, Bootstrap, Junit5, Assertj, Liquibase, PostgreSQL, H2)<br/>
 
 <a href = "https://github.com/yarmail/job4j_grabber"> **Grabber** </a> - Parser and aggregator of vacancies from sites <br/>
