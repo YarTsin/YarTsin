@@ -10,15 +10,15 @@ Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/><br/>
 
 ### Technologies used
 
-**Java* 8-17 SE, EE (part)
-**Spring** - (REST, Boot, Security, Data, Core, MVC, Devtools) <br/>
-**db layer** - Hibernate, HQL, jdbcTemplate, JDBC, Liquibase<br/>
-**db** - PostgreSQL, H2, HQLDB <br/>
-**front layer**  - Thymeleaf, JSTL, js, Bootstrap <br/>
-**test** - Mockito, JUnit 5, AssertJ,  JUnit 4, Hamcrest <br/>
-**other** - JaCoCo, Travis CI, Codecov.io <br/>
-Jsoup, Log4j, Slf4j, JavaDoc, Quartz <br/>
-Git, Maven, СheckStyle, Windows <br/>
+**Java** 8-17 SE, EE (part) <br>
+**Spring** - (REST, Boot, Security, Data, Core, MVC, Devtools) <br>
+**db layer** - Hibernate, HQL, jdbcTemplate, JDBC, Liquibase<br>
+**db** - PostgreSQL, H2, HQLDB <br>
+**front layer**  - Thymeleaf, JSTL, js, Bootstrap <br>
+**test** - Mockito, JUnit 5, AssertJ,  JUnit 4, Hamcrest <br>
+**other** - JaCoCo, Travis CI, Codecov.io <br>
+Jsoup, Log4j, Slf4j, JavaDoc, Quartz <br>
+Git, Maven, СheckStyle, Windows <br>
 
 ..............................................................
 
