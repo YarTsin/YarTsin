@@ -8,7 +8,7 @@ Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/><br/>
 
 ..............................................................
 
-### Technologies used
+### Used tools
 
 **Java** 8-17 SE, EE (part) <br>
 **Spring** - (REST, Boot, Security, Data, Core, MVC, Devtools) <br>
@@ -22,7 +22,7 @@ Git, Maven, СheckStyle, Windows <br>
 
 ..............................................................
 
-### Use of technology in projects
+### Use tools in projects
 
 <a href = "https://github.com/yarmail/spring_rest_service"> **Простой Spring REST сервис** </a> 
 и <a href = "https://github.com/yarmail/rest_api_client_simple"> **Java REST клиент** </a> <br/>
