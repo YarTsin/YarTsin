@@ -10,6 +10,7 @@ Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/><br/>
 
 ### Technologies used
 
+**Java* 8-17 SE, EE (part)
 **Spring** - (REST, Boot, Security, Data, Core, MVC, Devtools) <br/>
 **db layer** - Hibernate, HQL, jdbcTemplate, JDBC, Liquibase<br/>
 **db** - PostgreSQL, H2, HQLDB <br/>
