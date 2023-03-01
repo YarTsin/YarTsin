@@ -14,10 +14,12 @@ Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/><br/>
 **Spring** - (REST, Boot, Security, Data, Core, MVC, Devtools) <br>
 **db layer** - Hibernate, HQL, jdbcTemplate, JDBC, Liquibase<br>
 **db** - PostgreSQL, H2, HQLDB <br>
-**front layer**  - Thymeleaf, JSTL, js, Bootstrap <br>
+**front layer**(beginner level)  - Thymeleaf, JSTL, js, Bootstrap <br>
 **test** - Mockito, JUnit 5, AssertJ,  JUnit 4, Hamcrest <br>
+**log** - Log4j, Slf4j <br>
+**utils** - pgAdmin, Postman, curl <br>
 **other** - JaCoCo, Travis CI, Codecov.io <br>
-Jsoup, Log4j, Slf4j, JavaDoc, Quartz <br>
+Jsoup, JavaDoc, Quartz <br>
 Git, Maven, СheckStyle, Windows <br>
 
 ..............................................................
