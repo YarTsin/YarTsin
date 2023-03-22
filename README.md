@@ -29,7 +29,7 @@ Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
 ### Use tools in projects
 
 <a href = "https://github.com/yarmail/task_back">**Монолитный Rest сервис**</a>  - Backend Проекта TaskList<br>
-(Spring Boot, Spring Web, Rest, Spring Data JPA, JPQL, JPA Named Queries) <br>
+(Java 17, Gradle 8, Spring Boot, Spring Web, Rest, <br> Spring Data JPA, JPQL, JPA Named Queries) <br>
 
 <a href = "https://github.com/yarmail/spring_rest_service"> **Простой Spring REST сервис** </a> 
 и <a href = "https://github.com/yarmail/rest_api_client_simple"> **Java REST клиент** </a> <br>
