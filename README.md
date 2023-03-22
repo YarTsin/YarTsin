@@ -22,25 +22,24 @@ Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
 **log:** Log4j, Slf4j <br>
 **build:** Maven, Gradle <br>
 **utils:** pgAdmin, Postman, curl <br>
-**other:** Jsoup, JavaDoc, Quartz, Git, СheckStyle, Windows <br>
+**other:** Jsoup, Git, СheckStyle, Windows <br>
 
 ..............................................................
 
 ### Use tools in projects
 
+<a href = "https://github.com/yarmail/task_back">**Монолитный Rest сервис**</a>  - Backend Проекта TaskList<br>
+(Spring Boot, Spring Web, Rest, Spring Data JPA, JPQL, JPA Named Queries) <br>
+
 <a href = "https://github.com/yarmail/spring_rest_service"> **Простой Spring REST сервис** </a> 
-и <a href = "https://github.com/yarmail/rest_api_client_simple"> **Java REST клиент** </a> <br/>
-(Java, Spring REST, Spring Boot, Spring Data, PostgreSQL)<br/>
+и <a href = "https://github.com/yarmail/rest_api_client_simple"> **Java REST клиент** </a> <br>
+(Java, Spring REST, Spring Boot, Spring Data, PostgreSQL)<br>
 
-<a href = "https://github.com/yarmail/library"> **Library** </a> - Автоматизация работы библиотеки с помощью Spring <br/>
-(Spring Framework, Spring MVC, Validation, Thymeleaf, jdbcTemplate, PostgreSQL)<br/>
+<a href = "https://github.com/yarmail/library"> **Library** </a> - Автоматизация работы библиотеки с помощью Spring <br>
+(Spring Framework, Spring MVC, Validation, Thymeleaf, jdbcTemplate, PostgreSQL)<br>
 
-<a href = "https://github.com/yarmail/dreamjob"> **DreamJob** </a> - Приложение по поиску работы <br/>
-(Spring Boot, Thymeleaf, Bootstrap, Junit5, Assertj, Liquibase, PostgreSQL, H2)<br/>
+<a href = "https://github.com/yarmail/dreamjob"> **DreamJob** </a> - Приложение по поиску работы <br>
+(Spring Boot, Thymeleaf, Bootstrap, Junit5, Assertj, Liquibase, PostgreSQL, H2) <br>
 
-<a href = "https://github.com/yarmail/job4j_grabber"> **Grabber** </a> - Parser and aggregator of vacancies from sites <br/>
-(PostgreSQL, Quartz, Jsoup)<br/>
-
-<a href = "https://github.com/yarmail/job4j_design"> **Design** </a> - Exercises and tasks <br/>
-(Java SE, Data Structures and Algorithms, Input/Output system, <br/>
-PostgreSQL, JDBC, GC, Reference, TDD, SOLID)<br/>
+<a href = "https://github.com/yarmail/job4j_grabber"> **Grabber** </a> - Parser and aggregator of vacancies from sites  <br>
+(PostgreSQL, Quartz, Jsoup) <br>
