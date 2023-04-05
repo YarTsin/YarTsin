@@ -11,6 +11,8 @@ Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/><br/>
 ### Used tools
 
 **Java:** 8-17 SE, EE (part) <br>
+**microservices:** Spring Cloud Discovery: Eureka Server, Eureka Client <br>
+Spring Cloud Routing > Gateway, Spring Boot Actuator <br>
 **Spring base:** Spring Framework, Spring Core, Spring Boot <br>
 **web:** Spring WEB (Rest), Spring MVC <br>
 **security:** Spring Security <br>
@@ -28,8 +30,13 @@ Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
 
 ### Use tools in projects
 
-<a href = "https://github.com/yarmail/task_back">**Монолитный Rest сервис**</a>  - Backend Проекта TaskList<br>
+<a href = "https://github.com/yarmail/task_back">**task_back**</a>  - монолитный Rest сервис, backend проекта TaskList<br>
 (Java 17, Gradle 8, Spring Boot, Spring Web, Rest, <br> Spring Data JPA, JPQL, JPA Named Queries) <br>
+
+<a href = "https://github.com/yarmail/microservices_start">**microservices_start**</a>  - простой наглядный проект с микросервисами<br>
+с использованием некоторых технологий Spring Cloud <br>
+(Java 17, Gradle 8, Spring Boot, Spring Boot Actuator <br> 
+Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gateway) <br>
 
 <a href = "https://github.com/yarmail/spring_rest_service"> **Простой Spring REST сервис** </a> 
 и <a href = "https://github.com/yarmail/rest_api_client_simple"> **Java REST клиент** </a> <br>
