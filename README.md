@@ -14,7 +14,7 @@ Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/><br/>
 **microservices:** Spring Cloud Discovery: Eureka Server, Eureka Client <br>
 Spring Cloud Routing > Gateway, Spring Boot Actuator <br>
 **Spring base:** Spring Framework, Spring Core, Spring Boot <br>
-**web:** Spring WEB (Rest), Spring MVC <br>
+**web:** Spring WEB (Rest), Spring MVC, Lombok <br>
 **security:** Spring Security <br>
 **db layer:** Spring Data JPA, JPQL, JPA Named Queries, <br> 
 Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
