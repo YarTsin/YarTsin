@@ -28,7 +28,11 @@ Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
 
 ..............................................................
 
-### Use tools in projects
+### some projects and topics
+
+<a href = "https://github.com/yarmail/task_micro">**task_micro**</a>  - Из монолитного REST сервиса делаем микросервис<br>
+(Java 17, Gradle 8, Spring Boot, Spring Web, Rest, <br> Spring Data JPA, JPQL, JPA Named Queries, <br>
+Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gateway)<br>
 
 <a href = "https://github.com/yarmail/task_back">**task_back**</a>  - монолитный Rest сервис, backend проекта TaskList<br>
 (Java 17, Gradle 8, Spring Boot, Spring Web, Rest, <br> Spring Data JPA, JPQL, JPA Named Queries) <br>
@@ -37,10 +41,6 @@ Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
 с использованием некоторых технологий Spring Cloud <br>
 (Java 17, Gradle 8, Spring Boot, Spring Boot Actuator <br> 
 Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gateway) <br>
-
-<a href = "https://github.com/yarmail/spring_rest_service"> **Простой Spring REST сервис** </a> 
-и <a href = "https://github.com/yarmail/rest_api_client_simple"> **Java REST клиент** </a> <br>
-(Java, Spring REST, Spring Boot, Spring Data, PostgreSQL)<br>
 
 <a href = "https://github.com/yarmail/library"> **Library** </a> - Автоматизация работы библиотеки с помощью Spring <br>
 (Spring Framework, Spring MVC, Validation, Thymeleaf, jdbcTemplate, PostgreSQL)<br>
