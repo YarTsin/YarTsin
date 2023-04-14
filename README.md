@@ -28,7 +28,7 @@ Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
 
 ..............................................................
 
-### some projects and topics
+### some projects
 
 <a href = "https://github.com/yarmail/task_micro">**task_micro**</a>  - Из монолитного REST сервиса делаем микросервис<br>
 (Java 17, Gradle 8, Spring Boot, Spring Web, Rest, Spring Data JPA, JPQL, JPA Named Queries, <br>
