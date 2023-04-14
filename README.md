@@ -8,7 +8,7 @@ Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/><br/>
 
 ..............................................................
 
-### Used tools
+### used tools
 
 **Java:** 8-17 SE, EE (part) <br>
 **microservices:** Spring Cloud Discovery: Eureka Server, Eureka Client <br>
