@@ -10,7 +10,6 @@ Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/><br/>
 
 ### used tools
 
-**Java:** 8-17 SE, EE (part) <br>
 **microservices:** Spring Cloud Discovery: Eureka Server, Eureka Client <br>
 Spring Cloud Routing > Gateway, Spring Boot Actuator <br>
 **Spring base:** Spring Framework, Spring Core, Spring Boot <br>
@@ -24,11 +23,14 @@ Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
 **log:** Log4j, Slf4j <br>
 **build:** Maven, Gradle <br>
 **utils:** pgAdmin, Postman, curl <br>
-**other:** Jsoup, Git, СheckStyle, Windows <br>
+**other:** Jsoup, Git, СheckStyle<br>
+**OS:** Windows, Linux(Ubuntu)<br>
+**Java:** 8-17 SE, EE (part), Java Core, OOP, SOLID, TDD, KISS, DRY, YAGNI<br>
+
 
 ..............................................................
 
-### some projects
+### some projects with microservices
 
 <a href = "https://github.com/yarmail/task_micro">**task_micro**</a>  - Из монолитного REST сервиса делаем микросервис<br>
 (Java 17, Gradle 8, Spring Boot, Spring Web, Rest, Spring Data JPA, JPQL, JPA Named Queries, <br>
@@ -42,6 +44,8 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 (Java 17, Gradle 8, Spring Boot, Spring Boot Actuator <br> 
 Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gateway) <br>
 
+### some other projects
+
 <a href = "https://github.com/yarmail/library"> **Library** </a> - Автоматизация работы библиотеки с помощью Spring <br>
 (Spring Framework, Spring MVC, Validation, Thymeleaf, jdbcTemplate, PostgreSQL)<br>
 
@@ -49,4 +53,6 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 (Spring Boot, Thymeleaf, Bootstrap, Junit5, Assertj, Liquibase, PostgreSQL, H2) <br>
 
 <a href = "https://github.com/yarmail/job4j_grabber"> **Grabber** </a> - Parser and aggregator of vacancies from sites  <br>
-(PostgreSQL, Quartz, Jsoup) <br>
+(PostgreSQL, Quartz, Jsoup) <br><br>
+
+<a href = "https://github.com/yarmail?tab=repositories"> **more projects...** </a>
