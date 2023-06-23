@@ -32,8 +32,7 @@ Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
 
 ### usage docker and docker-compose
 <a href = "https://github.com/yarmail/docker_example">**docker_example**</a>  - Подключаем Docker к Java проекту<br>
-<a href = "https://github.com/yarmail/docker_compose">**docker_compose**</a>  - Используем Docker Compose для <br>
-вывода страниц через nginx <br>
+<a href = "https://github.com/yarmail/docker_compose">**docker_compose**</a>  - Используем Docker Compose для вывода страниц через nginx <br>
 
 
 ### some projects with microservices
