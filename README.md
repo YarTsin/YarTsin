@@ -9,7 +9,8 @@ Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/><br/>
 ..............................................................
 
 ### used tools
-**container:** docker, docker-compose<br>
+**container:** Docker, Docker-compose <br>
+**brokers:** Kafka, RabbitMQ <br>
 **microservices:** Spring Cloud Discovery: Eureka Server, Eureka Client <br>
 Spring Cloud Routing > Gateway, Spring Boot Actuator <br>
 **Spring base:** Spring Framework, Spring Core, Spring Boot <br>
@@ -31,8 +32,11 @@ Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
 ..............................................................
 
 ### usage docker and docker-compose
-<a href = "https://github.com/yarmail/docker_example">**docker_example**</a>  - Подключаем Docker к Java проекту<br>
-<a href = "https://github.com/yarmail/docker_compose">**docker_compose**</a>  - Используем Docker Compose для вывода страниц через nginx <br>
+<a href = "https://github.com/yarmail/docker_example">**docker_example**</a> - Подключаем Docker к Java проекту<br>
+<a href = "https://github.com/yarmail/docker_compose">**docker_compose**</a> - Используем Docker Compose для вывода страниц через nginx <br>
+
+### usage message broker 
+<a href = "https://github.com/yarmail/kafka_connect">**kafka_connect**</a> - Используем Kafka для передачи сообщений в Spring Boot<br>
 
 
 ### some projects with microservices
