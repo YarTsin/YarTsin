@@ -9,7 +9,8 @@ Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/><br/>
 ..............................................................
 
 ### used tools
-**container:** Docker, Docker-compose <br>
+**continuous integration (CI):** Jenkins, Travis CI (Codecov.io, JaCoCo)<br> 
+**continuous delivery (CD):** Docker, Docker Compose <br>
 **brokers:** Kafka, RabbitMQ <br>
 **microservices:** Spring Cloud Discovery: Eureka Server, Eureka Client <br>
 Spring Cloud Routing > Gateway, Spring Boot Actuator <br>
@@ -30,6 +31,10 @@ Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
 
 
 ..............................................................
+
+### use of continuous integration programs
+<a href = "https://github.com/yarmail/jenkins_start">**jenkins_start**</a> - Используем Jenkins для автоматической сборки проекта.<br>
+Добавлено описание работы с Travis CI<br>
 
 ### usage docker and docker-compose
 <a href = "https://github.com/yarmail/docker_example">**docker_example**</a> - Подключаем Docker к Java проекту<br>
