@@ -9,6 +9,7 @@ Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/><br/>
 ..............................................................
 
 ### used tools
+**projects methods:** Agile, Scrum, Kanban <br>
 **continuous integration (CI):** Jenkins, Travis CI (Codecov.io, JaCoCo)<br> 
 **continuous delivery (CD):** Docker, Docker Compose <br>
 **brokers:** Kafka, RabbitMQ <br>
@@ -31,6 +32,8 @@ Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
 
 
 ..............................................................
+### work with agile development methodologies
+<a href = "https://github.com/yarmail/agile_soft_dev">**agile_soft_dev**</a> - work with Agile, Scrum, Kanban
 
 ### use of continuous integration programs
 <a href = "https://github.com/yarmail/jenkins_start">**jenkins_start**</a> - Используем Jenkins для автоматической сборки проекта.<br>
