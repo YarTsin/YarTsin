@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=yarmail)<br/>
 
-### Hello
+## hello
 I am Yar. I am Java developer.<br/>
 Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/><br/>
 <img width="150" alt="looking_for_a_job" src="https://user-images.githubusercontent.com/46091342/218417082-1c9d77e6-f9ae-4cc5-8183-3a3d2a3b763a.png">
@@ -8,7 +8,7 @@ Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/><br/>
 
 ..............................................................
 
-### used tools
+## used tools
 **projects methods:** Agile, Scrum, Kanban <br>
 **continuous integration (CI):** Jenkins, Travis CI (Codecov.io, JaCoCo)<br> 
 **continuous delivery (CD):** Docker, Docker Compose <br>
@@ -32,22 +32,22 @@ Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
 
 
 ..............................................................
-### work with agile development methodologies
+## work with agile development methodologies
 <a href = "https://github.com/yarmail/agile_soft_dev">**agile_soft_dev**</a> - work with Agile, Scrum, Kanban
 
-### use of continuous integration programs
+## use of continuous integration programs
 <a href = "https://github.com/yarmail/jenkins_start">**jenkins_start**</a> - Используем Jenkins для автоматической сборки проекта.<br>
 Добавлено описание работы с Travis CI<br>
 
-### usage docker and docker-compose
+## usage docker and docker-compose
 <a href = "https://github.com/yarmail/docker_example">**docker_example**</a> - Подключаем Docker к Java проекту<br>
 <a href = "https://github.com/yarmail/docker_compose">**docker_compose**</a> - Используем Docker Compose для вывода страниц через nginx <br>
 
-### usage message broker 
+## usage message broker 
 <a href = "https://github.com/yarmail/kafka_connect">**kafka_connect**</a> - Используем Kafka для передачи сообщений в Spring Boot<br>
 
 
-### some projects with microservices
+## some projects with microservices
 
 <a href = "https://github.com/yarmail/task_micro">**task_micro**</a>  - Из монолитного REST сервиса делаем микросервис<br>
 (Java 17, Gradle 8, Spring Boot, Spring Web, Rest, Spring Data JPA, JPQL, JPA Named Queries, <br>
@@ -61,7 +61,7 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 (Java 17, Gradle 8, Spring Boot, Spring Boot Actuator <br> 
 Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gateway) <br>
 
-### some other projects
+## some other projects
 
 <a href = "https://github.com/yarmail/library"> **Library** </a> - Автоматизация работы библиотеки с помощью Spring <br>
 (Spring Framework, Spring MVC, Validation, Thymeleaf, jdbcTemplate, PostgreSQL)<br>
