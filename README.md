@@ -1,14 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=yarmail)<br/>
 
-## hello
-I am Yar. I am Java developer.<br/>
-Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br/><br/>
+<b>HELLO</b> <br>
+I am Yar. I am Java developer.<br>
+Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br><br>
 <img width="150" alt="looking_for_a_job" src="https://user-images.githubusercontent.com/46091342/218417082-1c9d77e6-f9ae-4cc5-8183-3a3d2a3b763a.png">
 
 
 ..............................................................
 
-## used tools
+<b>USED TOOLS</b> <br>
 **projects methods:** Agile, Scrum, Kanban <br>
 **continuous integration (CI):** Jenkins, Travis CI (Codecov.io, JaCoCo)<br> 
 **continuous delivery (CD):** Docker, Docker Compose <br>
@@ -26,29 +26,27 @@ Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
 **log:** Log4j, Slf4j <br>
 **build:** Maven, Gradle <br>
 **utils:** pgAdmin, Postman, curl <br>
-**other:** Jsoup, Git, СheckStyle<br>
-**OS:** Windows, Linux(Ubuntu)<br>
-**Java:** 8-17 SE, EE (part), Java Core, OOP, SOLID, TDD, KISS, DRY, YAGNI<br>
-
+**other:** Jsoup, Git, СheckStyle <br>
+**OS:** Windows, Linux(Ubuntu) <br>
+**Java:** 8-17 SE, EE (part), Java Core, OOP, SOLID, TDD, KISS, DRY, YAGNI <br>
 
 ..............................................................
-## work with agile development methodologies
-<a href = "https://github.com/yarmail/agile_soft_dev">**agile_soft_dev**</a> - work with Agile, Scrum, Kanban
 
-## use of continuous integration programs
-<a href = "https://github.com/yarmail/jenkins_start">**jenkins_start**</a> - Используем Jenkins для автоматической сборки проекта.<br>
-Добавлено описание работы с Travis CI<br>
+<b> WORK WITH AGILE DEVELOPMENT METHODOLOGIES </b> <br>
+<a href = "https://github.com/yarmail/agile_soft_dev">**agile_soft_dev**</a> - work with Agile, Scrum, Kanban <br>
 
-## usage docker and docker-compose
-<a href = "https://github.com/yarmail/docker_example">**docker_example**</a> - Подключаем Docker к Java проекту<br>
+<b> USE OF CONTINUOUS INTEGRATION PROGRAMS </b> <br>
+<a href = "https://github.com/yarmail/jenkins_start">**jenkins_start**</a> - Используем Jenkins для автоматической сборки проекта. <br>
+Добавлено описание работы с Travis CI <br>
+
+<b> USAGE DOCKER AND DOCKER-COMPOSE </b> <br>
+<a href = "https://github.com/yarmail/docker_example">**docker_example**</a> - Подключаем Docker к Java проекту <br>
 <a href = "https://github.com/yarmail/docker_compose">**docker_compose**</a> - Используем Docker Compose для вывода страниц через nginx <br>
 
-## usage message broker 
-<a href = "https://github.com/yarmail/kafka_connect">**kafka_connect**</a> - Используем Kafka для передачи сообщений в Spring Boot<br>
+<b> USAGE MESSAGE BROKER </b> <br>
+<a href = "https://github.com/yarmail/kafka_connect">**kafka_connect**</a> - Используем Kafka для передачи сообщений в Spring Boot <br>
 
-
-## some projects with microservices
-
+<b> SOME PROJECTS WITH MICROSERVICES </b> <br>
 <a href = "https://github.com/yarmail/task_micro">**task_micro**</a>  - Из монолитного REST сервиса делаем микросервис<br>
 (Java 17, Gradle 8, Spring Boot, Spring Web, Rest, Spring Data JPA, JPQL, JPA Named Queries, <br>
 Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gateway)<br>
@@ -61,8 +59,7 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 (Java 17, Gradle 8, Spring Boot, Spring Boot Actuator <br> 
 Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gateway) <br>
 
-## some other projects
-
+<b> SOME OTHER PROJECTS </b> <br>
 <a href = "https://github.com/yarmail/library"> **Library** </a> - Автоматизация работы библиотеки с помощью Spring <br>
 (Spring Framework, Spring MVC, Validation, Thymeleaf, jdbcTemplate, PostgreSQL)<br>
 
@@ -73,3 +70,5 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 (PostgreSQL, Quartz, Jsoup) <br><br>
 
 <a href = "https://github.com/yarmail?tab=repositories"> **more projects...** </a>
+
+<b> PREPARATION FOR THE INTERVIEW </b> <br>
