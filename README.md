@@ -2,7 +2,9 @@
 
 <b>HELLO</b> <br>
 I am Yar. I am Java developer.<br>
-Contacts: telegram: @YarTsin; email: yarmail@yandex.ru <br><br>
+Telegram: @YarTsin; <br>
+Email: yarmail@yandex.ru <br>
+Subscribe to Linkedin: https://www.linkedin.com/in/yar-tsin/ <br><br>
 <img width="150" alt="looking_for_a_job" src="https://user-images.githubusercontent.com/46091342/218417082-1c9d77e6-f9ae-4cc5-8183-3a3d2a3b763a.png">
 
 
