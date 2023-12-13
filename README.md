@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=yarmail)<br/>
 
-<b>HELLO</b> <br>
+<b>HELLO</b> <br><br>
 I am Yar. I am Java developer.<br>
 Telegram: @YarTsin; <br>
 Email: yarmail@yandex.ru <br>
@@ -10,7 +10,8 @@ Subscribe to Linkedin: https://www.linkedin.com/in/yar-tsin/ <br><br>
 
 ..............................................................
 
-<b>USED TOOLS</b> <br>
+<b>SKILLS</b> <br>
+
 **projects methods:** Agile, Scrum, Kanban <br>
 **continuous integration (CI):** Jenkins, Travis CI (Codecov.io, JaCoCo)<br> 
 **continuous delivery (CD):** Docker, Docker Compose <br>
@@ -33,6 +34,8 @@ Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
 **Java:** 8-17 SE, EE (part), Java Core, OOP, SOLID, TDD, KISS, DRY, YAGNI <br>
 
 ..............................................................
+
+<b> PROJECT EXAMPLES </b> <br>
 
 <b> WORK WITH AGILE DEVELOPMENT METHODOLOGIES </b> <br>
 <a href = "https://github.com/yarmail/agile_soft_dev">**agile_soft_dev**</a> - work with Agile, Scrum, Kanban <br>
@@ -72,5 +75,7 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 (PostgreSQL, Quartz, Jsoup) <br><br>
 
 <a href = "https://github.com/yarmail?tab=repositories"> **more projects...** </a>
+
+..............................................................
 
 <b> PREPARATION FOR THE INTERVIEW </b> <br>
