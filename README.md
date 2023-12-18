@@ -4,10 +4,8 @@
 I am Yar. I am Java developer.<br>
 Telegram: @YarTsin; <br>
 Email: yarmail@yandex.ru <br>
-Subscribe to Linkedin: https://www.linkedin.com/in/yar-tsin/ <br><br>
-<img width="150" alt="looking_for_a_job" src="https://user-images.githubusercontent.com/46091342/218417082-1c9d77e6-f9ae-4cc5-8183-3a3d2a3b763a.png">
-
-
+Subscribe to Linkedin: https://www.linkedin.com/in/yar-tsin/ 
+<b><h3>L O O K I N G<br>F O R  A J O B</h3><b>
 ..............................................................
 
 <h3>SKILLS</h3>
