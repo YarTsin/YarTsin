@@ -80,5 +80,6 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 <h3> PREPARATION FOR THE INTERVIEW </h3> 
 Здесь будем размещать материалы, которые могут пригодиться <br>
 для подготовки к собеседованиям <br><br>
-<a href = "https://github.com/yarmail/tinkoff"><b>Tinkoff</b></a> - тесты и задачи от Тинькофф
+<a href = "https://github.com/yarmail/tinkoff"><b>Tinkoff</b></a> - тесты и задачи от Тинькофф <br>
+<a href = "https://github.com/yarmail/yandex_tasks"><b>Yandex</b></a> - задачи и тренировки от Яндекса <br>
 
