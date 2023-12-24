@@ -34,7 +34,7 @@ Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
 
 ..............................................................
 
-<h3> PROJECT EXAMPLES </h3> 
+<h3>PROJECTS</h3> 
 показываю применение навыков в проектах <br><br>
 
 <b> WORK WITH AGILE DEVELOPMENT METHODOLOGIES </b> <br>
@@ -78,10 +78,16 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 
 ..............................................................
 
-<h3> PREPARATION FOR THE INTERVIEW </h3> 
+<h3>INTERVIEW</h3> 
 Здесь будем размещать материалы, которые могут пригодиться <br>
 для подготовки к собеседованиям <br><br>
 <a href = "https://github.com/yarmail/interview"><b>Вопросы для собеседований</b></a> - собрано более 1500 вопросов <br>
 <a href = "https://github.com/yarmail/tinkoff"><b>Tinkoff</b></a> - тесты и задачи от Тинькофф <br>
-<a href = "https://github.com/yarmail/yandex_tasks"><b>Yandex</b></a> - задачи и тренировки от Яндекса <br>
+<a href = "https://github.com/yarmail/yandex_tasks"><b>Yandex</b></a> - задачи и тренировки от Яндекса <br><br>
+
+..............................................................
+
+<h3>HELP</h3>
+Вспомогательные материалы для начинающих Java разработчиков<br>
+
 
