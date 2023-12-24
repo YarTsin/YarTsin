@@ -88,6 +88,11 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 ..............................................................
 
 <h3>HELP</h3>
-Вспомогательные материалы для начинающих Java разработчиков<br>
-
+Некоторые вспомогательные материалы для начинающих Java разработчиков<br><br>
+<a href = "https://github.com/yarmail/jenkins_start"><b>jenkins_start</b></a> - Описание и начало работ с Jenkins<br>
+<a href = "https://github.com/yarmail/kafka_connect"><b>kafka_start</b></a> - Простой пример работы с Kafka<br>
+<a href = "https://github.com/yarmail/docker_compose"><b>docker_compose</b></a> - Подключение и пример работы с Docker Compose<br>
+<a href = "https://github.com/yarmail/ubuntu"><b>ubuntu</b></a> - Ubuntu для тех, кто только переходит с Windows<br>
+<a href = "https://github.com/yarmail/microservices_start"><b>microservices_start</b></a> - Простой наглядный пример создания микросервисов<br>
+<a href = "https://github.com/yarmail/postgresql_lessons"><b>postgresql_lessons</b></a> - отдельные темы по PostgreSQL с примерами для начинающих<br>
 
