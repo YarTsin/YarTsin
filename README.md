@@ -86,7 +86,14 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 <a href = "https://github.com/yarmail/yandex_tasks"><b>Yandex</b></a> - задачи и тренировки от Яндекса <br><br>
 
 ..............................................................
+<h3>ALGORITHM</h3> 
+Собираем материалы для решения алгоритмических задач<br><br>
+<a href = "https://github.com/yarmail/alg_grok"><b>Грокаем алгоритмы</b></a> - конспект книги, рекомендуется для начинающих <br><br>
 
+
+
+
+..............................................................
 <h3>HELP</h3>
 Некоторые вспомогательные материалы для начинающих Java разработчиков<br><br>
 <a href = "https://github.com/yarmail/jenkins_start"><b>jenkins_start</b></a> - Описание и начало работ с Jenkins<br>
