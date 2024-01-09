@@ -3,7 +3,7 @@
 <h3>HELLO</h3> 
 I am Yar. Java programmer since 2019<br>
 Here are some of my works <br>
-Telegram: @YarTsin; <br>
+Telegram: @YarTsin <br>
 Email: yarmail@yandex.ru <br>
 Subscribe to Linkedin: https://www.linkedin.com/in/yar-tsin/ 
 <b><h3>L O O K I N G<br>F O R  A J O B</h3></b>
@@ -88,8 +88,8 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 ..............................................................
 <h3>ALGORITHM</h3> 
 Собираем материалы для решения алгоритмических задач<br><br>
-<a href = "https://github.com/yarmail/alg_grok"><b>Грокаем алгоритмы</b></a> - конспект книги, рекомендуется для начинающих <br><br>
-
+<a href = "https://github.com/yarmail/alg_grok"><b>Грокаем алгоритмы</b></a> - конспект книги, рекомендуется для начинающих <br>
+<a href = "https://github.com/yarmail/alg_acmp"><b>1000 алгоритмических задач</b></a> - с сайта acmp.ru - рекомендуется для начинающих <br><br>
 
 
 
