@@ -1,8 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=yarmail)<br/>
 
 <h3>HELLO</h3> 
-I am Yar. Java programmer since 2019<br>
-Here are some of my works <br>
+I am Yar. I am Java programmer<br>
 Telegram: @YarTsin <br>
 Email: yarmail@yandex.ru <br>
 Subscribe to Linkedin: https://www.linkedin.com/in/yar-tsin/ 
