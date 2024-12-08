@@ -5,24 +5,19 @@
 <h3>LINKS</h3> 
 Telegram: @YarTsin <br>
 Email: yarmail@yandex.ru <br>
-Subscribe to Linkedin: https://www.linkedin.com/in/yar-tsin/ 
+Subscribe to Linkedin: https://www.linkedin.com/in/yar-tsin/ <br><br>
 
-<h3>ABOUT ME</h3>
 <details>
-<summary>About Me</summary>
+<summary>ABOUT ME</summary>
 I am an experienced Java developer with over 3 years of professional experience in creating and maintaining scalable applications. I have deep knowledge in servlet development and Java application programming, as well as experience working with popular frameworks such as Spring (including Spring Boot, Spring Cloud, and Spring Security). <br><br>
-I specialize in microservices development and am skilled in designing and integrating RESTful APIs.
-<br><br>
-I confidently utilize CI/CD tools such as Jenkins and GitLab CI/CD, and have experience with containerization (Docker) and orchestration systems (Kubernetes). I am also proficient with both relational and non-relational databases, including PostgreSQL, MySQL, and MongoDB<br><br>
+I specialize in microservices development and am skilled in designing and integrating RESTful APIs. <br><br>
+I confidently utilize CI/CD tools such as Jenkins and GitLab CI/CD, and have experience with containerization (Docker) and orchestration systems (Kubernetes). I am also proficient with both relational and non-relational databases, including PostgreSQL, MySQL, and MongoDB <br><br>
 I actively use messaging tools such as RabbitMQ and Kafka, and I adhere to Agile/Scrum methodologies, which enable me to work effectively in teams and adapt to changes.<br><br>
 In addition to technical skills, I value the importance of communication and collaboration within a team and am always ready to share knowledge and experience with colleagues. My goal is to create reliable and high-performance solutions that deliver value to users and the business.
 </details>
 
-..............................................................
-
-<h3>SKILLS</h3>
 <details>
-<summary>Skills</summary>
+<summary>SKILLS</summary>
 
 **projects methods:** Agile, Scrum, Kanban <br>
 **continuous integration (CI):** Jenkins, Travis CI (Codecov.io, JaCoCo)<br> 
@@ -46,13 +41,8 @@ Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
 **Java:** 8-17 SE, EE (part), Java Core, OOP, SOLID, TDD, KISS, DRY, YAGNI <br>
 </details>
 
-
-..............................................................
-
-<h3>PROJECTS</h3> 
-показываю применение навыков в проектах <br><br>
 <details>
-<summary>Projects</summary>
+<summary>PROJECTS - I demonstrate the application of skills in projects</summary>
 
 <b> WORK WITH AGILE DEVELOPMENT METHODOLOGIES </b> <br>
 <a href = "https://github.com/yarmail/agile_soft_dev">**agile_soft_dev**</a> - work with Agile, Scrum, Kanban <br>
@@ -93,9 +83,9 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 
 <a href = "https://github.com/yarmail?tab=repositories"> **more projects...** </a>
 </details>
-..............................................................
 
-<h3>INTERVIEW</h3> 
+<details>
+<summary>INTERVIEW - materials for interviews</summary>
 Здесь будем размещать материалы, которые могут пригодиться <br>
 для подготовки к собеседованиям <br><br>
 <a href = "https://github.com/yarmail/interview"><b>Вопросы для собеседований</b></a> - собрано более 1500 вопросов <br>
@@ -103,10 +93,10 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 <a href = "https://github.com/yarmail/alg_acmp"><b>1000 алгоритмических задач</b></a> - с сайта acmp.ru - рекомендуется для начинающих <br>
 <a href = "https://github.com/yarmail/tinkoff"><b>Tinkoff</b></a> - тесты и задачи от Тинькофф <br>
 <a href = "https://github.com/yarmail/yandex_tasks"><b>Yandex</b></a> - задачи и тренировки от Яндекса <br><br>
+</details>
 
-..............................................................
-
-<h3>HELP</h3>
+<details>
+<summary>HELP - auxiliary materials</summary>
 Некоторые вспомогательные материалы для начинающих Java разработчиков<br><br>
 <a href = "https://github.com/yarmail/jenkins_start"><b>jenkins_start</b></a> - Описание и начало работ с Jenkins<br>
 <a href = "https://github.com/yarmail/kafka_connect"><b>kafka_start</b></a> - Простой пример работы с Kafka<br>
@@ -114,4 +104,4 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 <a href = "https://github.com/yarmail/ubuntu"><b>ubuntu</b></a> - Ubuntu для тех, кто только переходит с Windows<br>
 <a href = "https://github.com/yarmail/microservices_start"><b>microservices_start</b></a> - Простой наглядный пример создания микросервисов<br>
 <a href = "https://github.com/yarmail/postgresql_lessons"><b>postgresql_lessons</b></a> - отдельные темы по PostgreSQL с примерами для начинающих<br>
-
+</details>
