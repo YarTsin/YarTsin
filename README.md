@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=yarmail)<br/>
 
+<b><h3> NO<br> L O O K I N G<br>F O R  A J O B</h3></b>
+
 <h3>LINKS</h3> 
 Telegram: @YarTsin <br>
 Email: yarmail@yandex.ru <br>
@@ -16,7 +18,6 @@ I actively use messaging tools such as RabbitMQ and Kafka, and I adhere to Agile
 In addition to technical skills, I value the importance of communication and collaboration within a team and am always ready to share knowledge and experience with colleagues. My goal is to create reliable and high-performance solutions that deliver value to users and the business.
 </details>
 
-<b><h3> NO<br> L O O K I N G<br>F O R  A J O B</h3></b>
 ..............................................................
 
 <h3>SKILLS</h3>
