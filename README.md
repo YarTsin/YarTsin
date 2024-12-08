@@ -2,10 +2,12 @@
 
 <b><h3> NO L O O K I N G F O R  A J O B</h3></b>
 
-<h3>LINKS</h3> 
+<details>
+<summary>LINKS</summary>
 Telegram: @YarTsin <br>
 Email: yarmail@yandex.ru <br>
 Subscribe to Linkedin: https://www.linkedin.com/in/yar-tsin/ <br><br>
+</details>
 
 <details>
 <summary>ABOUT ME</summary>
