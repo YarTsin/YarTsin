@@ -1,23 +1,27 @@
 ![](https://komarev.com/ghpvc/?username=yarmail)<br/>
 
-<h3>ABOUT ME</h3>
-Hi! I am result-oriented software engineer with more than 3+ years of production experience in software development.<br> 
-I have some experience with various frameworks (Spring, Hibernate), libraries (Lombok, JUnit5, Mockito), <br>
-tools (Maven, Gradle, Docker, Postman, Git/GitHub, Tomcat, Flyway), database management systems (PostgreSQL, MySQL, H2) <br>
-and WEB-technologies (Spring MVC, Java Servlets, JSP). 
-Focus area: back-end development. Good knowledge of software development and maintenance processes.<br>
-Experience in solutions for building RESTful APIs using Spring Boot, and familiarity with API design principles and best practices.<br>
-Open to new technologies and modern trends in software development. <br>
-
 <h3>LINKS</h3> 
 Telegram: @YarTsin <br>
 Email: yarmail@yandex.ru <br>
 Subscribe to Linkedin: https://www.linkedin.com/in/yar-tsin/ 
 
+<h3>ABOUT ME</h3>
+<details>
+<summary>About Me</summary>
+I am an experienced Java developer with over 3 years of professional experience in creating and maintaining scalable applications. I have deep knowledge in servlet development and Java application programming, as well as experience working with popular frameworks such as Spring (including Spring Boot, Spring Cloud, and Spring Security). <br><br>
+I specialize in microservices development and am skilled in designing and integrating RESTful APIs.
+<br><br>
+I confidently utilize CI/CD tools such as Jenkins and GitLab CI/CD, and have experience with containerization (Docker) and orchestration systems (Kubernetes). I am also proficient with both relational and non-relational databases, including PostgreSQL, MySQL, and MongoDB<br><br>
+I actively use messaging tools such as RabbitMQ and Kafka, and I adhere to Agile/Scrum methodologies, which enable me to work effectively in teams and adapt to changes.<br><br>
+In addition to technical skills, I value the importance of communication and collaboration within a team and am always ready to share knowledge and experience with colleagues. My goal is to create reliable and high-performance solutions that deliver value to users and the business.
+</details>
+
 <b><h3> NO<br> L O O K I N G<br>F O R  A J O B</h3></b>
 ..............................................................
 
 <h3>SKILLS</h3>
+<details>
+<summary>Skills</summary>
 
 **projects methods:** Agile, Scrum, Kanban <br>
 **continuous integration (CI):** Jenkins, Travis CI (Codecov.io, JaCoCo)<br> 
@@ -39,11 +43,15 @@ Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
 **other:** Jsoup, Git, СheckStyle <br>
 **OS:** Windows, Linux(Ubuntu) <br>
 **Java:** 8-17 SE, EE (part), Java Core, OOP, SOLID, TDD, KISS, DRY, YAGNI <br>
+</details>
+
 
 ..............................................................
 
 <h3>PROJECTS</h3> 
 показываю применение навыков в проектах <br><br>
+<details>
+<summary>Projects</summary>
 
 <b> WORK WITH AGILE DEVELOPMENT METHODOLOGIES </b> <br>
 <a href = "https://github.com/yarmail/agile_soft_dev">**agile_soft_dev**</a> - work with Agile, Scrum, Kanban <br>
@@ -83,7 +91,7 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 (PostgreSQL, Quartz, Jsoup) <br><br>
 
 <a href = "https://github.com/yarmail?tab=repositories"> **more projects...** </a>
-
+</details>
 ..............................................................
 
 <h3>INTERVIEW</h3> 
