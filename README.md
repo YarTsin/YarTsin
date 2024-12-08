@@ -100,10 +100,12 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 для подготовки к собеседованиям <br><br>
 <a href = "https://github.com/yarmail/interview"><b>Вопросы для собеседований</b></a> - собрано более 1500 вопросов <br>
 <a href = "https://github.com/yarmail/alg_grok"><b>Грокаем алгоритмы</b></a> - конспект книги, рекомендуется для начинающих <br>
-<a href = "https://github.com/yarmail/alg_acmp"><b>1000 алгоритмических задач</b></a> - с сайта acmp.ru - рекомендуется для начинающих <br><br>
+<a href = "https://github.com/yarmail/alg_acmp"><b>1000 алгоритмических задач</b></a> - с сайта acmp.ru - рекомендуется для начинающих <br>
 <a href = "https://github.com/yarmail/tinkoff"><b>Tinkoff</b></a> - тесты и задачи от Тинькофф <br>
 <a href = "https://github.com/yarmail/yandex_tasks"><b>Yandex</b></a> - задачи и тренировки от Яндекса <br><br>
+
 ..............................................................
+
 <h3>HELP</h3>
 Некоторые вспомогательные материалы для начинающих Java разработчиков<br><br>
 <a href = "https://github.com/yarmail/jenkins_start"><b>jenkins_start</b></a> - Описание и начало работ с Jenkins<br>
