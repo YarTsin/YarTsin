@@ -1,7 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=yarmail)<br/>
 
-<h3>HELLO</h3> 
-I am Yar. I am Java programmer<br>
+<h3>ABOUT ME</h3>
+Hi! I am result-oriented software engineer with more than 3+ years of production experience in software development.<br> 
+I have some experience with various frameworks (Spring, Hibernate), libraries (Lombok, JUnit5, Mockito), <br>
+tools (Maven, Gradle, Docker, Postman, Git/GitHub, Tomcat, Flyway), database management systems (PostgreSQL, MySQL, H2) <br>
+and WEB-technologies (Spring MVC, Java Servlets, JSP). 
+Focus area: back-end development. Good knowledge of software development and maintenance processes.<br>
+Experience in solutions for building RESTful APIs using Spring Boot, and familiarity with API design principles and best practices.<br>
+Open to new technologies and modern trends in software development. <br>
+
+<h3>LINKS</h3> 
 Telegram: @YarTsin <br>
 Email: yarmail@yandex.ru <br>
 Subscribe to Linkedin: https://www.linkedin.com/in/yar-tsin/ 
