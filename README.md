@@ -3,7 +3,7 @@
 <b><h3> NO L O O K I N G F O R  A J O B</h3></b>
 
 <details>
-<summary>LINKS</summary>
+<summary>CONTACTS AND LINKS</summary>
 Telegram: @YarTsin <br>
 Email: yarmail@yandex.ru <br>
 Subscribe to Linkedin: https://www.linkedin.com/in/yar-tsin/ <br><br>
@@ -98,7 +98,7 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 </details>
 
 <details>
-<summary>HELP - auxiliary materials</summary>
+<summary>HELP - for new developers</summary>
 Некоторые вспомогательные материалы для начинающих Java разработчиков<br><br>
 <a href = "https://github.com/yarmail/jenkins_start"><b>jenkins_start</b></a> - Описание и начало работ с Jenkins<br>
 <a href = "https://github.com/yarmail/kafka_connect"><b>kafka_start</b></a> - Простой пример работы с Kafka<br>
