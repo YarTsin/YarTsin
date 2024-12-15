@@ -39,7 +39,7 @@ Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
 **build:** Maven, Gradle <br>
 **utils:** pgAdmin, Postman, curl <br>
 **other:** Jsoup, Git, СheckStyle <br>
-**OS:** Windows, Linux(Ubuntu) <br>
+**OS:** Windows, Ubuntu, SintezM(RHEL) <br>
 **Java:** 8-17 SE, EE (part), Java Core, OOP, SOLID, TDD, KISS, DRY, YAGNI <br>
 </details>
 
@@ -99,7 +99,7 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 
 <details>
 <summary>HELP - for new developers</summary>
-Некоторые вспомогательные материалы для начинающих Java разработчиков<br><br>
+Некоторые материалы для начинающих Java разработчиков<br><br>
 <a href = "https://github.com/yarmail/jenkins_start"><b>jenkins_start</b></a> - Описание и начало работ с Jenkins<br>
 <a href = "https://github.com/yarmail/kafka_connect"><b>kafka_start</b></a> - Простой пример работы с Kafka<br>
 <a href = "https://github.com/yarmail/docker_compose"><b>docker_compose</b></a> - Подключение и пример работы с Docker Compose<br>
