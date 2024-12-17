@@ -106,4 +106,5 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 <a href = "https://github.com/yarmail/ubuntu"><b>ubuntu</b></a> - Ubuntu для тех, кто только переходит с Windows<br>
 <a href = "https://github.com/yarmail/microservices_start"><b>microservices_start</b></a> - Простой наглядный пример создания микросервисов<br>
 <a href = "https://github.com/yarmail/postgresql_lessons"><b>postgresql_lessons</b></a> - отдельные темы по PostgreSQL с примерами для начинающих<br>
+<a href = "https://github.com/yarmail/long_file_path"</b></a> - Простая утилита для поиска длинных путей<br>
 </details>
