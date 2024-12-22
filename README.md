@@ -107,6 +107,7 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 <a href = "https://github.com/yarmail/microservices_start"><b>microservices_start</b></a> - Простой наглядный пример создания микросервисов<br>
 <a href = "https://github.com/yarmail/lombok"><b>Библиотека Lombok</b></a> - Примеры применения аннотаций библиотеки Lombok<br>
 <a href = "https://github.com/yarmail/postgresql_lessons"><b>postgresql_lessons</b></a> - Отдельные темы по PostgreSQL с примерами для начинающих<br>
-<a href = "https://github.com/yarmail/postgresql_pgadmin"><b>postgresql_pgadmin</b></a> - начальные приемы работы с pgAdmin<br>
+<a href = "https://github.com/yarmail/postgresql_pgadmin"><b>postgresql_pgadmin</b></a> - Начальные приемы работы с pgAdmin<br>
 <a href = "https://github.com/yarmail/long_file_path"><b>long_file_path</b></a> - Простая утилита для поиска длинных путей<br>
+<a href = "https://github.com/yarmail/enumclass"><b>enumclass</b></a> - Изучаем класс Enum на примерах<br>
 </details>
