@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=yarmail)<br/>
 
-<b><h3> NO L O O K I N G F O R  A J O B</h3></b>
+<b><h3> NO LOOKING FOR A JOB</h3></b>
 
 <details>
 <summary>CONTACTS AND LINKS</summary>
