@@ -1,7 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=yarmail)<br/>
 
-<b><h3> NO LOOKING FOR A JOB</h3></b>
-
 <details>
 <summary>CONTACTS AND LINKS</summary>
 Telegram: @YarTsin <br>
