@@ -59,29 +59,29 @@ Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
 
 <b> WORK WITH AGILE DEVELOPMENT METHODOLOGIES </b> <br>
 <a href = "https://github.com/yarmail/agile_soft_dev">**agile_soft_dev**</a> 
-~ work with Agile, Scrum, Kanban <br>
+ ~ work with Agile, Scrum, Kanban <br>
 <b> USE OF CONTINUOUS INTEGRATION PROGRAMS </b> <br>
 <a href = "https://github.com/yarmail/jenkins_start">**jenkins_start**</a> 
-~ Используем Jenkins для автоматической сборки проекта. <br>
+ ~ Используем Jenkins для автоматической сборки проекта. <br>
 Добавлено описание работы с Travis CI <br>
 <b> USAGE DOCKER AND DOCKER-COMPOSE </b> <br>
 <a href = "https://github.com/yarmail/docker_example">**docker_example**</a> 
-~ Подключаем Docker к Java проекту <br>
+ ~ Подключаем Docker к Java проекту <br>
 <a href = "https://github.com/yarmail/docker_compose">**docker_compose**</a> 
-~ Используем Docker Compose для вывода страниц через nginx <br>
+ ~ Используем Docker Compose для вывода страниц через nginx <br>
 <b> USAGE MESSAGE BROKER </b> <br>
 <a href = "https://github.com/yarmail/kafka_connect">**kafka_connect**</a> 
-~ Используем Kafka для передачи сообщений в Spring Boot <br>
+ ~ Используем Kafka для передачи сообщений в Spring Boot <br>
 <b> SOME PROJECTS WITH MICROSERVICES </b> <br>
 <a href = "https://github.com/yarmail/task_micro">**task_micro**</a> 
-~ Из монолитного REST сервиса делаем микросервис <br>
+ ~ Из монолитного REST сервиса делаем микросервис <br>
 (Java 17, Gradle 8, Spring Boot, Spring Web, Rest, Spring Data JPA, JPQL, JPA Named Queries, <br>
 Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gateway) <br>
-<a href = "https://github.com/yarmail/task_back">**task_back**</a>  
-~ монолитный Rest сервис, backend проекта TaskList <br>
+<a href = "https://github.com/yarmail/task_back">**task_back**</a>
+ ~ монолитный Rest сервис, backend проекта TaskList <br>
 (Java 17, Gradle 8, Spring Boot, Spring Web, Rest, Spring Data JPA, JPQL, JPA Named Queries) <br> 
-<a href = "https://github.com/yarmail/microservices_start">**microservices_start**</a>  
-~ простой наглядный проект с микросервисами <br>
+<a href = "https://github.com/yarmail/microservices_start">**microservices_start**</a> 
+ ~ простой наглядный проект с микросервисами <br>
 с использованием некоторых технологий Spring Cloud <br>
 (Java 17, Gradle 8, Spring Boot, Spring Boot Actuator <br> 
 Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gateway) <br>
