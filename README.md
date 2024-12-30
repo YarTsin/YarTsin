@@ -73,15 +73,15 @@ Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
 <a href = "https://github.com/yarmail/kafka_connect">**kafka_connect**</a> 
 ~ Используем Kafka для передачи сообщений в Spring Boot <br>
 <b> SOME PROJECTS WITH MICROSERVICES </b> <br>
-<a href = "https://github.com/yarmail/task_micro">**task_micro**</a>  
-~ Из монолитного REST сервиса делаем микросервис<br>
+<a href = "https://github.com/yarmail/task_micro">**task_micro**</a> 
+~ Из монолитного REST сервиса делаем микросервис <br>
 (Java 17, Gradle 8, Spring Boot, Spring Web, Rest, Spring Data JPA, JPQL, JPA Named Queries, <br>
 Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gateway)<br>
 <a href = "https://github.com/yarmail/task_back">**task_back**</a>  
-~ монолитный Rest сервис, backend проекта TaskList<br>
+~ монолитный Rest сервис, backend проекта TaskList <br>
 (Java 17, Gradle 8, Spring Boot, Spring Web, Rest, Spring Data JPA, JPQL, JPA Named Queries) <br>
 <a href = "https://github.com/yarmail/microservices_start">**microservices_start**</a>  
-~ простой наглядный проект с микросервисами<br>
+~ простой наглядный проект с микросервисами <br>
 с использованием некоторых технологий Spring Cloud <br>
 (Java 17, Gradle 8, Spring Boot, Spring Boot Actuator <br> 
 Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gateway) <br>
