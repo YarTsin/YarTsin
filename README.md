@@ -40,7 +40,8 @@ value to users and the business.
 Spring Cloud Routing > Gateway, Spring Boot Actuator <br>
 **Spring base:** Spring Framework, Spring Core, Spring Boot <br>
 **web:** Spring WEB (Rest), Spring MVC, Lombok <br>
-**security:** Spring Security <br>
+**security level 2:** Spring Security <br>
+**security level 1:** JAAS, GSS, Kerberos <br>
 **db layer:** Spring Data JPA, JPQL, JPA Named Queries, <br> 
 Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
 **db:** PostgreSQL, H2, HQLDB <br>
