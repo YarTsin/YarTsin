@@ -47,7 +47,7 @@ Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
 **db:** PostgreSQL, H2, HQLDB <br>
 **front layer:** Thymeleaf, JSTL, js, Bootstrap <br>
 **test:** Mockito, JUnit 5, AssertJ,  JUnit 4, Hamcrest <br>
-**log:** Log4j, Slf4j <br>
+**log:** Slf4j, logback, reload4j(log4j), java.util.logging<br>
 **build:** Maven, Gradle <br>
 **utils:** pgAdmin, Postman, curl <br>
 **other:** Jsoup, Git, СheckStyle <br>
