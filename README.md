@@ -131,6 +131,8 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 ~ Простой наглядный пример создания микросервисов<br>
 <a href = "https://github.com/yarmail/robot"><b>Шагающий робот</b></a> 
 ~ Известная задачка по многопоточности<br>
+<a href = "https://github.com/yarmail/jsoup"><b>Jsoup для начинающих</b></a>
+~ Простая программа для web scraping и parsing статичной веб страницы<br>
 <a href = "https://github.com/yarmail/lombok"><b>Библиотека Lombok</b></a> 
 ~ Примеры применения аннотаций библиотеки Lombok<br>
 <a href = "https://github.com/yarmail/postgresql_lessons"><b>postgresql_lessons</b></a> 
