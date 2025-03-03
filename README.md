@@ -8,7 +8,7 @@ Subscribe to Linkedin: https://www.linkedin.com/in/yar-tsin/ <br><br>
 </details>
 
 <details>
-<summary>ABOUT ME</summary>
+<summary>RESUME</summary>
 I am an experienced Java developer with over 3 years of professional experience in creating 
 and maintaining scalable applications. I have deep knowledge in servlet development and Java 
 application programming, as well as experience working with popular frameworks such as 
@@ -31,28 +31,30 @@ value to users and the business.
 
 <details>
 <summary>SKILLS</summary>
-
-**projects methods:** Agile, Scrum, Kanban <br>
-**continuous integration (CI):** Jenkins, Travis CI (Codecov.io, JaCoCo)<br> 
-**continuous delivery (CD):** Docker, Docker Compose <br>
-**brokers:** Kafka, RabbitMQ <br>
-**microservices:** Spring Cloud Discovery: Eureka Server, Eureka Client <br>
+<b>ai chat:</b> ChatGPT, DeepSeek, Qwen, Perplexity<br>
+<b>projects methods:</b> Agile, Scrum, Kanban <br>
+<b>continuous integration (CI):</b> Jenkins, Travis CI (Codecov.io, JaCoCo)<br>
+<b>continuous delivery (CD):</b> Docker, Docker Compose <br>
+<b>brokers:</b> Kafka, RabbitMQ <br>
+<b>microservices:</b> Spring Cloud Discovery: Eureka Server, Eureka Client <br>
 Spring Cloud Routing > Gateway, Spring Boot Actuator <br>
-**Spring base:** Spring Framework, Spring Core, Spring Boot <br>
-**web:** Spring WEB (Rest), Spring MVC, Lombok <br>
-**security level 2:** Spring Security <br>
-**security level 1:** JAAS, GSS, Kerberos <br>
-**db layer:** Spring Data JPA, JPQL, JPA Named Queries, <br> 
+<b>Spring base:</b> Spring Framework, Spring Core, Spring Boot <br>
+<b>web:</b> Spring WEB (Rest), Spring MVC, Lombok <br>
+<b>security level 2:</b> Spring Security <br>
+<b>security level 1:</b> JAAS, GSS, Kerberos <br>
+<b>db layer:</b> Spring Data JPA, JPQL, JPA Named Queries, <br> 
 Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
-**db:** PostgreSQL, H2, HQLDB <br>
-**front layer:** Thymeleaf, JSTL, js, Bootstrap <br>
-**test:** Mockito, JUnit 5, AssertJ,  JUnit 4, Hamcrest <br>
-**log:** Slf4j, logback, reload4j(log4j), java.util.logging<br>
-**build:** Maven, Gradle <br>
-**utils:** pgAdmin, Postman, curl <br>
-**other:** Jsoup, Git, СheckStyle <br>
-**OS:** Windows, Ubuntu, SintezM(RHEL) <br>
-**Java:** 8-21 SE, EE (part), Java Core, OOP, SOLID, TDD, KISS, DRY, YAGNI <br>
+<b>db:</b> PostgreSQL, H2, HQLDB <br>
+<b>front layer:</b> Thymeleaf, JSTL, js, Bootstrap <br>
+<b>test:</b> Mockito, JUnit 5, AssertJ,  JUnit 4, Hamcrest <br>
+<b>log:</b> Slf4j, logback, reload4j(log4j), java.util.logging<br>
+<b>build:</b> Maven, Gradle <br>
+<b>utils:</b> pgAdmin, Postman, curl <br>
+<b>other:</b> СheckStyle <br>
+<b>web scraping, parsing html:</b> Jsoup <br>
+<b>VCS:</b> Git, Github, GitLab, Bitbucket <br>
+<b>OS:</b> Windows, Ubuntu, SintezM(RHEL) <br>
+<b>Java:</b> 8-21 SE, EE (part), Java Core, OOP, SOLID, TDD, KISS, DRY, YAGNI <br>
 </details>
 
 <details>
