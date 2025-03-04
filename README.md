@@ -30,31 +30,73 @@ value to users and the business.
 </details>
 
 <details>
-<summary>SKILLS</summary>
-<b>ai chat:</b> ChatGPT, DeepSeek, Qwen, Perplexity<br>
-<b>projects methods:</b> Agile, Scrum, Kanban <br>
-<b>continuous integration (CI):</b> Jenkins, Travis CI (Codecov.io, JaCoCo)<br>
-<b>continuous delivery (CD):</b> Docker, Docker Compose <br>
-<b>brokers:</b> Kafka, RabbitMQ <br>
-<b>microservices:</b> Spring Cloud Discovery: Eureka Server, Eureka Client <br>
-Spring Cloud Routing > Gateway, Spring Boot Actuator <br>
-<b>Spring base:</b> Spring Framework, Spring Core, Spring Boot <br>
-<b>web:</b> Spring WEB (Rest), Spring MVC, Lombok <br>
-<b>security level 2:</b> Spring Security <br>
-<b>security level 1:</b> JAAS, GSS, Kerberos <br>
-<b>db layer:</b> Spring Data JPA, JPQL, JPA Named Queries, <br> 
-Hibernate, HQL, jdbcTemplate, JDBC, Liquibase <br>
-<b>db:</b> PostgreSQL, H2, HQLDB <br>
-<b>front layer:</b> Thymeleaf, JSTL, js, Bootstrap <br>
-<b>test:</b> Mockito, JUnit 5, AssertJ,  JUnit 4, Hamcrest <br>
-<b>log:</b> Slf4j, logback, reload4j(log4j), java.util.logging<br>
-<b>build:</b> Maven, Gradle <br>
-<b>utils:</b> pgAdmin, Postman, curl <br>
-<b>other:</b> СheckStyle <br>
-<b>web scraping, parsing html:</b> Jsoup <br>
-<b>VCS:</b> Git, Github, GitLab, Bitbucket <br>
-<b>OS:</b> Windows, Ubuntu, SintezM(RHEL) <br>
-<b>Java:</b> 8-21 SE, EE (part), Java Core, OOP, SOLID, TDD, KISS, DRY, YAGNI <br>
+<summary> 🚀 SKILLS - Java developer</summary>
+
+<b>AI & Automation:</b><br> 
+AI chat: ChatGPT, DeepSeek, Qwen, Perplexity<br>
+
+<b>Projects methods:</b> Agile, Scrum, Kanban, Jira<br>
+
+<b>DevOps layer</b><br>
+CI: Jenkins, GitLab CI, GitHub Actions, Travis CI (Codecov.io, JaCoCo)<br>
+CD: Docker, Docker Compose <br>
+Orchestration: Kubernetes(elementary)<br>
+
+<b>Monitoring</b> Prometheus, Grafana, ELK Stack(elementary)<br>
+<b>VCS:</b> Git, GitHub, GitLab, Bitbucket <br>
+<b>Build:</b> Maven, Gradle<br>
+
+<b>Front layer(elementary)</b><br> 
+frameworks: React, Vue.js (elementary)<br> 
+tools: Webpack, npm, Bootstrap 5 (elementary)<br>
+basic: HTML5/CSS3, JavaScript (ES6+), jQuery, JSTL, Thymeleaf<br>
+
+<b>Message Brokers:</b> Kafka (Kafka Streams, Kafka Connect), RabbitMQ <br>
+
+<b>Security</b><br>
+<b>level 3:</b> Spring Security, OAuth2, JWT (basic)<br>
+<b>level 2:</b> SQL injection, XSS, CSRF (elementary)<br>
+<b>level 1:</b> JAAS, GSS, Kerberos <br>
+
+<b>Spring Ecosystem</b><br>
+microservices: Spring Cloud (Gateway, Config, OpenFeign) <br>
+web: Spring WEB (Rest), Spring MVC<br>
+base: Spring Framework, Spring Core, Spring Boot<br>
+
+<b>Documentation:<b> Javadoc, Confluence, Swagger(elementary), PlantUML<br> 
+<b>Static analysis:</b> SonarQube, Checkstyle, PMD(elementary)<br>
+
+<b>Test</b><br>
+level 3: Testcontainers, Selenium(elementary)<br>
+level 2: Mockito, JUnit 5, AssertJ<br>
+level 1: JUnit 4, Hamcrest <br>
+
+<b>Service layer</b><br>
+boilerplate reduction library: Lombok <br>
+log: Slf4j, logback, reload4j(log4j), java.util.logging<br>
+web scraping, parsing html: Jsoup <br>
+Patterns: SOLID, DDD, TDD
+Principles: KISS, DRY, YAGNI<br>
+Technologies Java:  Stream API, Concurrency, NIO2, OOP, etc.<br>
+Java: 8-21 SE, EE (part), Java Core  <br>
+
+<b>Db layer</b><br>
+tools: pgAdmin, DBeaver, DataGrip<br>
+db migration tools: Liquibase, Flyway <br>
+ORM: Spring Data JPA, JPQL, Hibernate, HQL, JPA Named Queries
+JDBC: jdbcTemplate, JDBC <br>
+NoSQL: MongoDB, Redis(elementary)<br>
+db: Postgres, H2, HSQLDB, MySQL, Oracle<br>
+
+<b>OS layer</b><br>
+tools: top, htop, lsof, ps, systemctl <br>
+OS: Windows, Ubuntu, SintezM(RHEL) <br>
+
+<b>Networking layer</b><br>
+tools level 2: WinSCP, Postman, Curl, PuTTY<br>
+tools level 1: tcpdump, netstat, traceroute<br>
+protocol: http, https, ssh, tcp/ip, REST, WebSocket, gRPC(elementary)<br>
+model: OSI
 </details>
 
 <details>
