@@ -33,7 +33,7 @@ value to users and the business.
 <summary> 🚀 SKILLS - Java developer</summary>
 <br>
 <b>AI & Automation:</b><br> 
-AI chat: ChatGPT, DeepSeek, Qwen, Perplexity<br>
+AI chat: ChatGPT, DeepSeek, Qwen, Perplexity<br><br>
 
 <b>Projects methods:</b> Agile, Scrum, Kanban, Jira<br>
 
@@ -54,12 +54,12 @@ basic: HTML5/CSS3, JavaScript (ES6+), jQuery, JSTL, Thymeleaf<br>
 <b>Message Brokers:</b> Kafka (Kafka Streams, Kafka Connect), RabbitMQ <br>
 
 <b>Security</b><br>
-<b>level 3:</b> Spring Security, OAuth2, JWT (basic)<br>
-<b>level 2:</b> SQL injection, XSS, CSRF (elementary)<br>
-<b>level 1:</b> JAAS, GSS, Kerberos <br>
+level 3: Spring Security, OAuth2, JWT (basic)<br>
+level 2: SQL injection, XSS, CSRF (elementary)<br>
+level 1: JAAS, GSS, Kerberos <br>
 
 <b>Spring Ecosystem</b><br>
-microservices: Spring Cloud (Gateway, Config, OpenFeign) <br>
+microservices: Spring Cloud (Gateway, Config, OpenFeign)<br>
 web: Spring WEB (Rest), Spring MVC<br>
 base: Spring Framework, Spring Core, Spring Boot<br>
 
