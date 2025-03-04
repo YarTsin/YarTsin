@@ -75,7 +75,7 @@ level 1: JUnit 4, Hamcrest <br>
 boilerplate reduction library: Lombok <br>
 log: Slf4j, logback, reload4j(log4j), java.util.logging<br>
 web scraping, parsing html: Jsoup <br>
-Patterns: SOLID, DDD, TDD
+Patterns: SOLID, DDD, TDD <br>
 Principles: KISS, DRY, YAGNI<br>
 Technologies Java:  Stream API, Concurrency, NIO2, OOP, etc.<br>
 Java: 8-21 SE, EE (part), Java Core  <br>
