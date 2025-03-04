@@ -31,7 +31,7 @@ value to users and the business.
 
 <details>
 <summary> 🚀 SKILLS - Java developer</summary>
-
+<br>
 <b>AI & Automation:</b><br> 
 AI chat: ChatGPT, DeepSeek, Qwen, Perplexity<br>
 
@@ -42,7 +42,7 @@ CI: Jenkins, GitLab CI, GitHub Actions, Travis CI (Codecov.io, JaCoCo)<br>
 CD: Docker, Docker Compose <br>
 Orchestration: Kubernetes(elementary)<br>
 
-<b>Monitoring</b> Prometheus, Grafana, ELK Stack(elementary)<br>
+<b>Monitoring:</b> Prometheus, Grafana, ELK Stack(elementary)<br>
 <b>VCS:</b> Git, GitHub, GitLab, Bitbucket <br>
 <b>Build:</b> Maven, Gradle<br>
 
@@ -63,7 +63,7 @@ microservices: Spring Cloud (Gateway, Config, OpenFeign) <br>
 web: Spring WEB (Rest), Spring MVC<br>
 base: Spring Framework, Spring Core, Spring Boot<br>
 
-<b>Documentation:<b> Javadoc, Confluence, Swagger(elementary), PlantUML<br> 
+<b>Documentation:</b> Javadoc, Confluence, Swagger(elementary), PlantUML<br> 
 <b>Static analysis:</b> SonarQube, Checkstyle, PMD(elementary)<br>
 
 <b>Test</b><br>
