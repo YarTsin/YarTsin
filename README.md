@@ -83,7 +83,7 @@ Java: 8-21 SE, EE (part), Java Core  <br>
 <b>Db layer</b><br>
 tools: pgAdmin, DBeaver, DataGrip<br>
 db migration tools: Liquibase, Flyway <br>
-ORM: Spring Data JPA, JPQL, Hibernate, HQL, JPA Named Queries
+ORM: Spring Data JPA, JPQL, JPA Named Queries, Hibernate, HQL<br>
 JDBC: jdbcTemplate, JDBC <br>
 NoSQL: MongoDB, Redis(elementary)<br>
 db: Postgres, H2, HSQLDB, MySQL, Oracle<br>
