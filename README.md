@@ -78,7 +78,7 @@ web scraping, parsing html: Jsoup <br>
 Patterns: SOLID, DDD, TDD <br>
 Principles: KISS, DRY, YAGNI<br>
 Technologies Java:  Stream API, Concurrency, NIO2, OOP, etc.<br>
-Java: 8-21 SE, EE (part), Java Core  <br>
+Java: 8-21 SE, EE (part), Java Core<br>
 
 <b>Db layer</b><br>
 tools: pgAdmin, DBeaver, DataGrip<br>
@@ -89,12 +89,12 @@ NoSQL: MongoDB, Redis(elementary)<br>
 db: Postgres, H2, HSQLDB, MySQL, Oracle<br>
 
 <b>OS layer</b><br>
-tools: top, htop, lsof, ps, systemctl <br>
+tools: top, htop, lsof, ps, systemctl, etc.<br>
 OS: Windows, Ubuntu, SintezM(RHEL) <br>
 
 <b>Networking layer</b><br>
 tools level 2: WinSCP, Postman, Curl, PuTTY<br>
-tools level 1: tcpdump, netstat, traceroute<br>
+tools level 1: tcpdump, netstat, traceroute, etc.<br>
 protocol: http, https, ssh, tcp/ip, REST, WebSocket, gRPC(elementary)<br>
 model: OSI
 </details>
