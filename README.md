@@ -173,8 +173,12 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 ~ Ubuntu для тех, кто только переходит с Windows<br>
 <a href = "https://github.com/yarmail/microservices_start"><b>microservices_start</b></a> 
 ~ Простой наглядный пример создания микросервисов<br>
+<a href = "https://github.com/yarmail/collector_script"><b>Collector_script</b></a>
+~ Скрипт для перепаковки проектов в один текстовый файл<br>
 <a href = "https://github.com/yarmail/robot"><b>Шагающий робот</b></a> 
 ~ Известная задачка по многопоточности<br>
+<a href = "https://github.com/yarmail/collector_script"><b>Collector_script</b></a>
+~ Скрипт для перепаковки проектов в один текстовый файл<br>
 <a href = "https://github.com/yarmail/jsoup"><b>Jsoup для начинающих</b></a>
 ~ Простая программа для web scraping и parsing статичной веб страницы<br>
 <a href = "https://github.com/yarmail/lombok"><b>Библиотека Lombok</b></a> 
