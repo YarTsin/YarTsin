@@ -163,15 +163,15 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 <details>
 <summary>HELP - for new developers</summary>
 Некоторые материалы для начинающих Java разработчиков<br><br>
-<a href = "https://github.com/yarmail/jenkins_start"><b>jenkins_start</b></a> 
+<a href = "https://github.com/yarmail/jenkins_start"><b>Jenkins_start</b></a> 
 ~ Описание и начало работ с Jenkins<br>
-<a href = "https://github.com/yarmail/kafka_connect"><b>kafka_start</b></a> 
+<a href = "https://github.com/yarmail/kafka_connect"><b>Kafka_start</b></a> 
 ~ Простой пример работы с Kafka<br>
-<a href = "https://github.com/yarmail/docker_compose"><b>docker_compose</b></a> 
+<a href = "https://github.com/yarmail/docker_compose"><b>Docker_compose</b></a> 
 ~ Подключение и пример работы с Docker Compose<br>
-<a href = "https://github.com/yarmail/ubuntu"><b>ubuntu</b></a> 
+<a href = "https://github.com/yarmail/ubuntu"><b>Ubuntu</b></a> 
 ~ Ubuntu для тех, кто только переходит с Windows<br>
-<a href = "https://github.com/yarmail/microservices_start"><b>microservices_start</b></a> 
+<a href = "https://github.com/yarmail/microservices_start"><b>Microservices_start</b></a> 
 ~ Простой наглядный пример создания микросервисов<br>
 <a href = "https://github.com/yarmail/collector_script"><b>Collector_script</b></a>
 ~ Скрипт для перепаковки проектов в один текстовый файл<br>
@@ -181,12 +181,12 @@ Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gat
 ~ Простая программа для web scraping и parsing статичной веб страницы<br>
 <a href = "https://github.com/yarmail/lombok"><b>Библиотека Lombok</b></a> 
 ~ Примеры применения аннотаций библиотеки Lombok<br>
-<a href = "https://github.com/yarmail/postgresql_lessons"><b>postgresql_lessons</b></a> 
+<a href = "https://github.com/yarmail/postgresql_lessons"><b>Postgresql_lessons</b></a> 
 ~ Отдельные темы по PostgreSQL с примерами для начинающих<br>
-<a href = "https://github.com/yarmail/postgresql_pgadmin"><b>postgresql_pgadmin</b></a> 
+<a href = "https://github.com/yarmail/postgresql_pgadmin"><b>Postgresql_pgadmin</b></a> 
 ~ Начальные приемы работы с pgAdmin<br>
-<a href = "https://github.com/yarmail/long_file_path"><b>long_file_path</b></a> 
+<a href = "https://github.com/yarmail/long_file_path"><b>Long_file_path</b></a> 
 ~ Простая утилита для поиска длинных путей<br>
-<a href = "https://github.com/yarmail/enumclass"><b>enumclass</b></a> 
+<a href = "https://github.com/yarmail/enumclass"><b>Enumclass</b></a> 
 ~ Изучаем класс Enum на примерах<br>
 </details>
