@@ -30,7 +30,7 @@ value to users and the business.
 </details>
 
 <details>
-<summary> 🚀 SKILLS - Java developer</summary>
+<summary> SKILLS - Java developer</summary>
 <br>
 <b>AI & Automation:</b><br> 
 AI chat: ChatGPT, DeepSeek, Qwen, Perplexity<br><br>
@@ -120,31 +120,21 @@ model: OSI
 <!-- https://github.com/YarTsin/microservices_start --> <!-- https://github.com/YarTsin/library -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=microservices_start)](https://github.com/YarTsin/microservices_start) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=library)](https://github.com/YarTsin/library)
-
-
-<a href = "https://github.com/yarmail/dreamjob"> **DreamJob** </a> 
-~ Приложение по поиску работы <br>
-(Spring Boot, Thymeleaf, Bootstrap, Junit5, Assertj, Liquibase, PostgreSQL, H2) <br>
-<a href = "https://github.com/yarmail/job4j_grabber"> **Grabber** </a> 
-~ Parser and aggregator of vacancies from sites  <br>
-(PostgreSQL, Quartz, Jsoup) <br><br>
-<a href = "https://github.com/yarmail?tab=repositories"> **more projects...** </a>
 </details>
 
 <details>
-<summary>INTERVIEW - materials for interviews</summary>
-Здесь будем размещать материалы, которые могут пригодиться <br>
-для подготовки к собеседованиям <br><br>
-<a href = "https://github.com/yarmail/interview"><b>Вопросы для собеседований</b></a> 
-~ собрано более 1500 вопросов <br>
-<a href = "https://github.com/yarmail/alg_grok"><b>Грокаем алгоритмы</b></a> 
-~ конспект книги, рекомендуется для начинающих <br>
-<a href = "https://github.com/yarmail/alg_acmp"><b>1000 алгоритмических задач</b></a> 
-~ с сайта acmp.ru - рекомендуется для начинающих <br>
-<a href = "https://github.com/yarmail/tinkoff"><b>Tinkoff</b></a> 
-~ тесты и задачи от Тинькофф <br>
-<a href = "https://github.com/yarmail/yandex_tasks"><b>Yandex</b></a> 
-~ задачи и тренировки от Яндекса <br><br>
+<summary>INTERVIEW - materials for interviews java developers</summary>
+
+<!-- https://github.com/YarTsin/interview -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=interview)](https://github.com/YarTsin/interview)
+
+<!-- https://github.com/YarTsin/alg_grok --> <!-- https://github.com/YarTsin/alg_acmp -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=alg_grok)](https://github.com/YarTsin/alg_grok)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=alg_acmp)](https://github.com/YarTsin/alg_acmp)
+
+<!-- https://github.com/YarTsin/tinkoff --> <!-- https://github.com/YarTsin/yandex_tasks -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=tinkoff)](https://github.com/YarTsin/tinkoff)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=yandex_tasks)](https://github.com/YarTsin/yandex_tasks)
 </details>
 
 <details>
