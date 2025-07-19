@@ -100,43 +100,28 @@ model: OSI
 </details>
 
 <details>
-<summary>PROJECTS - I demonstrate the application of skills in projects</summary>
+<summary>PROJECTS JAVA - I demonstrate the application of Java skills in projects</summary><br>
 
-<b> WORK WITH AGILE DEVELOPMENT METHODOLOGIES </b> <br>
-Work with Agile, Scrum, Kanban <br>
-<!-- https://github.com/YarTsin/agile_soft_dev -->
+<!-- https://github.com/YarTsin/agile_soft_dev --> <!-- https://github.com/YarTsin/jenkins_start -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=agile_soft_dev)](https://github.com/YarTsin/agile_soft_dev)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=jenkins_start)](https://github.com/YarTsin/jenkins_start)
 
-<b> USE OF CONTINUOUS INTEGRATION PROGRAMS </b> <br>
-<!-- https://github.com/YarTsin/jenkins_start -->
-
-
-<b> USAGE DOCKER AND DOCKER-COMPOSE </b> <br>
 <!-- https://github.com/YarTsin/docker_example --> <!-- https://github.com/YarTsin/docker_compose -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=docker_example)](https://github.com/YarTsin/docker_example)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=docker_compose)](https://github.com/YarTsin/docker_compose)
 
-<b> USAGE MESSAGE BROKER </b> <br>
-<a href = "https://github.com/yarmail/kafka_connect">**kafka_connect**</a> 
- ~ Используем Kafka для передачи сообщений в Spring Boot <br>
-<b> SOME PROJECTS WITH MICROSERVICES </b> <br>
-<a href = "https://github.com/yarmail/task_micro">**task_micro**</a> 
- ~ Из монолитного REST сервиса делаем микросервис <br>
-(Java 17, Gradle 8, Spring Boot, Spring Web, Rest, Spring Data JPA, JPQL, JPA Named Queries, <br>
-Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gateway) <br>
-<a href = "https://github.com/yarmail/task_back">**task_back**</a>
- ~ монолитный Rest сервис, backend проекта TaskList <br>
-(Java 17, Gradle 8, Spring Boot, Spring Web, Rest, Spring Data JPA, JPQL, JPA Named Queries) <br> 
-<a href = "https://github.com/yarmail/microservices_start">**microservices_start**</a> 
- ~ простой наглядный проект с микросервисами <br>
-с использованием некоторых технологий Spring Cloud <br>
-(Java 17, Gradle 8, Spring Boot, Spring Boot Actuator <br> 
-Spring Cloud Discovery: Eureka Server, Eureka Client. Spring Cloud Routing > Gateway) <br>
+<!-- https://github.com/YarTsin/kafka_connect -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=kafka_connect)](https://github.com/YarTsin/kafka_connect)
 
-<b> SOME OTHER PROJECTS </b> <br>
-<a href = "https://github.com/yarmail/library"> **Library** </a> 
-~ Автоматизация работы библиотеки с помощью Spring <br>
-(Spring Framework, Spring MVC, Validation, Thymeleaf, jdbcTemplate, PostgreSQL)<br>
+<!-- https://github.com/YarTsin/task_back --> <!-- https://github.com/YarTsin/task_micro --> 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=task_back)](https://github.com/YarTsin/task_back)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=task_micro)](https://github.com/YarTsin/task_micro)
+
+<!-- https://github.com/YarTsin/microservices_start --> <!-- https://github.com/YarTsin/library -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=microservices_start)](https://github.com/YarTsin/microservices_start) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=library)](https://github.com/YarTsin/library)
+
+
 <a href = "https://github.com/yarmail/dreamjob"> **DreamJob** </a> 
 ~ Приложение по поиску работы <br>
 (Spring Boot, Thymeleaf, Bootstrap, Junit5, Assertj, Liquibase, PostgreSQL, H2) <br>
