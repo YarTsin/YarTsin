@@ -109,7 +109,7 @@ Work with Agile, Scrum, Kanban <br>
 
 <b> USE OF CONTINUOUS INTEGRATION PROGRAMS </b> <br>
 <!-- https://github.com/YarTsin/jenkins_start -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=jenkins_start&description=Краткий_русский_текст)](https://github.com/YarTsin/jenkins_start)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=jenkins_start)](https://github.com/YarTsin/jenkins_start)
  ~ Используем Jenkins для автоматической сборки проекта. <br>
 Добавлено описание работы с Travis CI <br>
 <b> USAGE DOCKER AND DOCKER-COMPOSE </b> <br>
