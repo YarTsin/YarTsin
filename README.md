@@ -109,14 +109,13 @@ Work with Agile, Scrum, Kanban <br>
 
 <b> USE OF CONTINUOUS INTEGRATION PROGRAMS </b> <br>
 <!-- https://github.com/YarTsin/jenkins_start -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=jenkins_start)](https://github.com/YarTsin/jenkins_start)
- ~ Используем Jenkins для автоматической сборки проекта. <br>
-Добавлено описание работы с Travis CI <br>
+
+
 <b> USAGE DOCKER AND DOCKER-COMPOSE </b> <br>
-<a href = "https://github.com/yarmail/docker_example">**docker_example**</a> 
- ~ Подключаем Docker к Java проекту <br>
-<a href = "https://github.com/yarmail/docker_compose">**docker_compose**</a> 
- ~ Используем Docker Compose для вывода страниц через nginx <br>
+<!-- https://github.com/YarTsin/docker_example --> <!-- https://github.com/YarTsin/docker_compose -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=docker_example)](https://github.com/YarTsin/docker_example)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=docker_compose)](https://github.com/YarTsin/docker_compose)
+
 <b> USAGE MESSAGE BROKER </b> <br>
 <a href = "https://github.com/yarmail/kafka_connect">**kafka_connect**</a> 
  ~ Используем Kafka для передачи сообщений в Spring Boot <br>
