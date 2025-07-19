@@ -104,11 +104,12 @@ model: OSI
 
 <b> WORK WITH AGILE DEVELOPMENT METHODOLOGIES </b> <br>
 Work with Agile, Scrum, Kanban <br>
-<!-- https://github.com/yarmail/agile_soft_dev -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yarmail&repo=agile_soft_dev)](https://github.com/yarmail/agile_soft_dev)
+<!-- https://github.com/YarTsin/agile_soft_dev -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=agile_soft_dev)](https://github.com/YarTsin/agile_soft_dev)
 
 <b> USE OF CONTINUOUS INTEGRATION PROGRAMS </b> <br>
-<a href = "https://github.com/yarmail/jenkins_start">**jenkins_start**</a> 
+<!-- https://github.com/YarTsin/jenkins_start -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=jenkins_start&description=Краткий_русский_текст)](https://github.com/YarTsin/jenkins_start)
  ~ Используем Jenkins для автоматической сборки проекта. <br>
 Добавлено описание работы с Travis CI <br>
 <b> USAGE DOCKER AND DOCKER-COMPOSE </b> <br>
