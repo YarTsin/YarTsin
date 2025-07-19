@@ -138,32 +138,17 @@ model: OSI
 </details>
 
 <details>
-<summary>HELP - for new developers</summary>
-Некоторые материалы для начинающих Java разработчиков<br><br>
-<a href = "https://github.com/yarmail/jenkins_start"><b>Jenkins_start</b></a> 
-~ Описание и начало работ с Jenkins<br>
-<a href = "https://github.com/yarmail/kafka_connect"><b>Kafka_start</b></a> 
-~ Простой пример работы с Kafka<br>
-<a href = "https://github.com/yarmail/docker_compose"><b>Docker_compose</b></a> 
-~ Подключение и пример работы с Docker Compose<br>
-<a href = "https://github.com/yarmail/ubuntu"><b>Ubuntu</b></a> 
-~ Ubuntu для тех, кто только переходит с Windows<br>
-<a href = "https://github.com/yarmail/microservices_start"><b>Microservices_start</b></a> 
-~ Простой наглядный пример создания микросервисов<br>
-<a href = "https://github.com/yarmail/collector_script"><b>Collector_script</b></a>
-~ Скрипт для перепаковки проектов в один текстовый файл<br>
-<a href = "https://github.com/yarmail/robot"><b>Шагающий робот</b></a> 
-~ Известная задачка по многопоточности<br>
-<a href = "https://github.com/yarmail/jsoup"><b>Jsoup для начинающих</b></a>
-~ Простая программа для web scraping и parsing статичной веб страницы<br>
-<a href = "https://github.com/yarmail/lombok"><b>Библиотека Lombok</b></a> 
-~ Примеры применения аннотаций библиотеки Lombok<br>
-<a href = "https://github.com/yarmail/postgresql_lessons"><b>Postgresql_lessons</b></a> 
-~ Отдельные темы по PostgreSQL с примерами для начинающих<br>
-<a href = "https://github.com/yarmail/postgresql_pgadmin"><b>Postgresql_pgadmin</b></a> 
-~ Начальные приемы работы с pgAdmin<br>
-<a href = "https://github.com/yarmail/long_file_path"><b>Long_file_path</b></a> 
-~ Простая утилита для поиска длинных путей<br>
-<a href = "https://github.com/yarmail/enumclass"><b>Enumclass</b></a> 
-~ Изучаем класс Enum на примерах<br>
+<summary>WORKING WITH DB</summary>
+
+<!-- https://github.com/YarTsin/postgresql_lessons --><!-- https://github.com/YarTsin/postgresql_pgadmin -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=postgresql_lessons)](https://github.com/YarTsin/postgresql_lessons)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=postgresql_pgadmin)](https://github.com/YarTsin/postgresql_pgadmin)
+</details>
+
+<details>
+<summary>MISC</summary>
+
+<!-- https://github.com/YarTsin/ubuntu --> <!-- https://github.com/YarTsin/collector_script -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=ubuntu)](https://github.com/YarTsin/ubuntu)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=collector_script)](https://github.com/YarTsin/collector_script)
 </details>
