@@ -100,7 +100,7 @@ model: OSI
 </details>
 
 <details>
-<summary>PROJECTS JAVA - I demonstrate the application of Java skills in projects</summary><br>
+<summary>PROJECTS - I demonstrate the application of Java skills in projects</summary><br>
 
 <!-- https://github.com/YarTsin/agile_soft_dev --> <!-- https://github.com/YarTsin/jenkins_start -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=agile_soft_dev)](https://github.com/YarTsin/agile_soft_dev)
