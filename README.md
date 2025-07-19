@@ -103,8 +103,10 @@ model: OSI
 <summary>PROJECTS - I demonstrate the application of skills in projects</summary>
 
 <b> WORK WITH AGILE DEVELOPMENT METHODOLOGIES </b> <br>
-<a href = "https://github.com/yarmail/agile_soft_dev">**agile_soft_dev**</a> 
- ~ work with Agile, Scrum, Kanban <br>
+Work with Agile, Scrum, Kanban <br>
+<!-- https://github.com/yarmail/agile_soft_dev -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yarmail&repo=agile_soft_dev)](https://github.com/yarmail/agile_soft_dev)
+
 <b> USE OF CONTINUOUS INTEGRATION PROGRAMS </b> <br>
 <a href = "https://github.com/yarmail/jenkins_start">**jenkins_start**</a> 
  ~ Используем Jenkins для автоматической сборки проекта. <br>
