@@ -102,6 +102,8 @@ model: OSI
 <details>
 <summary>PROJECTS - I demonstrate the application of Java skills in projects</summary><br>
 
+Various projects<br>
+
 <!-- https://github.com/YarTsin/agile_soft_dev --> <!-- https://github.com/YarTsin/jenkins_start -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=agile_soft_dev)](https://github.com/YarTsin/agile_soft_dev)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=jenkins_start)](https://github.com/YarTsin/jenkins_start)
@@ -112,6 +114,8 @@ model: OSI
 
 <!-- https://github.com/YarTsin/kafka_connect -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=kafka_connect)](https://github.com/YarTsin/kafka_connect)
+
+Miroservises and the Spring Ecosystem
 
 <!-- https://github.com/YarTsin/task_back --> <!-- https://github.com/YarTsin/task_micro --> 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=task_back)](https://github.com/YarTsin/task_back)
@@ -146,9 +150,22 @@ model: OSI
 </details>
 
 <details>
-<summary>MISC</summary>
+<summary>TRAINING MATERIALS - for beginner developers</summary>
 
 <!-- https://github.com/YarTsin/ubuntu --> <!-- https://github.com/YarTsin/collector_script -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=ubuntu)](https://github.com/YarTsin/ubuntu)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=collector_script)](https://github.com/YarTsin/collector_script)
+
+<!-- https://github.com/YarTsin/microservices_start -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=microservices_start)](https://github.com/YarTsin/microservices_start) 
+
+<!-- https://github.com/YarTsin/long_file_path --> <!-- https://github.com/YarTsin/robot -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=long_file_path)](https://github.com/YarTsin/long_file_path)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=robot)](https://github.com/YarTsin/robot)
+
+<!-- https://github.com/YarTsin/lombok --> <!-- https://github.com/YarTsin/enumclass -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=lombok)](https://github.com/YarTsin/lombok)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=enumclass)](https://github.com/YarTsin/enumclass)
+
 </details>
