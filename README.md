@@ -127,6 +127,14 @@ Miroservises and the Spring Ecosystem
 </details>
 
 <details>
+<summary>WORKING WITH DB</summary>
+
+<!-- https://github.com/YarTsin/postgresql_lessons --><!-- https://github.com/YarTsin/postgresql_pgadmin -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=postgresql_lessons)](https://github.com/YarTsin/postgresql_lessons)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=postgresql_pgadmin)](https://github.com/YarTsin/postgresql_pgadmin)
+</details>
+
+<details>
 <summary>INTERVIEW - materials for interviews java developers</summary>
 
 <!-- https://github.com/YarTsin/interview -->
@@ -139,14 +147,6 @@ Miroservises and the Spring Ecosystem
 <!-- https://github.com/YarTsin/tinkoff --> <!-- https://github.com/YarTsin/yandex_tasks -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=tinkoff)](https://github.com/YarTsin/tinkoff)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=yandex_tasks)](https://github.com/YarTsin/yandex_tasks)
-</details>
-
-<details>
-<summary>WORKING WITH DB</summary>
-
-<!-- https://github.com/YarTsin/postgresql_lessons --><!-- https://github.com/YarTsin/postgresql_pgadmin -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=postgresql_lessons)](https://github.com/YarTsin/postgresql_lessons)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=postgresql_pgadmin)](https://github.com/YarTsin/postgresql_pgadmin)
 </details>
 
 <details>
