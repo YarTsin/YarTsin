@@ -114,8 +114,10 @@ Various projects<br>
 
 <!-- https://github.com/YarTsin/kafka_connect -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=kafka_connect)](https://github.com/YarTsin/kafka_connect)
+</details>
 
-Miroservises and the Spring Ecosystem
+<details>
+<summary>MICROSERVISES - and the Spring ecosystem</summary>
 
 <!-- https://github.com/YarTsin/task_back --> <!-- https://github.com/YarTsin/task_micro --> 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=task_back)](https://github.com/YarTsin/task_back)
