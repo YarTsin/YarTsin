@@ -129,6 +129,15 @@ Various projects<br>
 </details>
 
 <details>
+<summary>WEB SCRAPING, parsing</summary>
+
+<!-- https://github.com/YarTsin/web-crawler --><!-- https://github.com/YarTsin/jsoup -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=web-crawler)](https://github.com/YarTsin/web-crawler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=jsoup)](https://github.com/YarTsin/jsoup)
+</details>
+
+
+<details>
 <summary>WORKING WITH DB</summary>
 
 <!-- https://github.com/YarTsin/postgresql_lessons --><!-- https://github.com/YarTsin/postgresql_pgadmin -->
