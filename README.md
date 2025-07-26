@@ -161,7 +161,11 @@ Various projects<br>
 </details>
 
 <details>
-<summary>TRAINING MATERIALS - for beginner developers</summary>
+<summary>FOR BEGINNER DEVELOPERS</summary>
+  
+<!-- https://github.com/YarTsin/100ProjectsOfCode -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=100ProjectsOfCode)](https://github.com/YarTsin/100ProjectsOfCode)
+
 
 <!-- https://github.com/YarTsin/ubuntu --> <!-- https://github.com/YarTsin/collector_script -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=ubuntu)](https://github.com/YarTsin/ubuntu)
