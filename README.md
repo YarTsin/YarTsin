@@ -152,10 +152,6 @@ Various projects<br>
 <!-- https://github.com/YarTsin/interview -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=interview)](https://github.com/YarTsin/interview)
 
-<!-- https://github.com/YarTsin/alg_grok --> <!-- https://github.com/YarTsin/alg_acmp -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=alg_grok)](https://github.com/YarTsin/alg_grok)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=alg_acmp)](https://github.com/YarTsin/alg_acmp)
-
 <!-- https://github.com/YarTsin/tinkoff --> <!-- https://github.com/YarTsin/yandex_tasks -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=tinkoff)](https://github.com/YarTsin/tinkoff)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=yandex_tasks)](https://github.com/YarTsin/yandex_tasks)
@@ -186,5 +182,16 @@ Various projects<br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=lombok)](https://github.com/YarTsin/lombok)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=enumclass)](https://github.com/YarTsin/enumclass)
+</details>
+
+<details>
+<summary>ALGORITHMS for Beginners</summary>
+
+<!-- https://github.com/YarTsin/alg_grok --> <!-- https://github.com/YarTsin/alg_acmp -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=alg_grok)](https://github.com/YarTsin/alg_grok)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=alg_acmp)](https://github.com/YarTsin/alg_acmp)
+
+<!-- https://github.com/YarTsin/leetcode_easy -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=leetcode_easy)](https://github.com/YarTsin/leetcode_easy)
 
 </details>
