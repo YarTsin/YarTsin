@@ -4,7 +4,8 @@
 <summary>CONTACTS AND LINKS</summary>
 Telegram: @YarTsin <br>
 Email: yarmail@yandex.ru <br>
-Subscribe to Linkedin: https://www.linkedin.com/in/yar-tsin/ <br><br>
+Subscribe to Linkedin: https://www.linkedin.com/in/yar-tsin/ <br>
+LeetCode: https://leetcode.com/u/YarTsin/<br><br>
 </details>
 
 <details>
