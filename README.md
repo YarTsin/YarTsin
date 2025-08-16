@@ -149,8 +149,9 @@ Various projects<br>
 <details>
 <summary>INTERVIEW - materials for interviews java developers</summary>
 
-<!-- https://github.com/YarTsin/interview -->
+<!-- https://github.com/YarTsin/interview --><!-- https://github.com/YarTsin/leetcode_java -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=interview)](https://github.com/YarTsin/interview)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=leetcode_java)](https://github.com/YarTsin/leetcode_java)
 
 <!-- https://github.com/YarTsin/tinkoff --> <!-- https://github.com/YarTsin/yandex_tasks -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=tinkoff)](https://github.com/YarTsin/tinkoff)
@@ -190,8 +191,5 @@ Various projects<br>
 <!-- https://github.com/YarTsin/alg_grok --> <!-- https://github.com/YarTsin/alg_acmp -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=alg_grok)](https://github.com/YarTsin/alg_grok)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=alg_acmp)](https://github.com/YarTsin/alg_acmp)
-
-<!-- https://github.com/YarTsin/leetcode_easy -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=leetcode_easy)](https://github.com/YarTsin/leetcode_easy)
 
 </details>
