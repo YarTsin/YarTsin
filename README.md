@@ -5,7 +5,7 @@
 Telegram: @YarTsin <br>
 Email: yarmail@yandex.ru <br>
 Subscribe to Linkedin: https://www.linkedin.com/in/yar-tsin/ <br>
-Solved 30 problems on LeetCode: https://leetcode.com/u/YarTsin/<br><br>
+Solved 50 problems on LeetCode: https://leetcode.com/u/YarTsin/<br><br>
 </details>
 
 <details>
