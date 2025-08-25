@@ -31,7 +31,7 @@ value to users and the business.
 </details>
 
 <details>
-<summary> SKILLS - Java developer</summary>
+<summary> TECH StACK - Java developer</summary>
 <br>
 <b>AI & Automation:</b><br> 
 AI chat: ChatGPT, DeepSeek, Qwen, Perplexity<br><br>
