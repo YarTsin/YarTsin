@@ -141,6 +141,9 @@ Various projects<br>
 <details>
 <summary>WORKING WITH DB</summary>
 
+<!-- https://github.com/YarTsin/connect -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=connect)](https://github.com/YarTsin/connect)
+
 <!-- https://github.com/YarTsin/postgresql_lessons --><!-- https://github.com/YarTsin/postgresql_pgadmin -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=postgresql_lessons)](https://github.com/YarTsin/postgresql_lessons)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=postgresql_pgadmin)](https://github.com/YarTsin/postgresql_pgadmin)
