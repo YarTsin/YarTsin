@@ -100,65 +100,49 @@ protocol: http, https, ssh, tcp/ip, REST, WebSocket, gRPC(elementary)<br>
 model: OSI
 </details>
 
+<!-- TODO надо сделать карточки проектов -->
+
 <details>
 <summary>PROJECTS - I demonstrate the application of Java skills in projects</summary><br>
 
 Various projects<br>
 
-<!-- https://github.com/YarTsin/agile_soft_dev --> <!-- https://github.com/YarTsin/jenkins_start -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=agile_soft_dev)](https://github.com/YarTsin/agile_soft_dev)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=jenkins_start)](https://github.com/YarTsin/jenkins_start)
+[Questions about Agile](https://github.com/YarTsin/agile_soft_dev) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Jenkins](https://github.com/YarTsin/jenkins_start) <br>
 
-<!-- https://github.com/YarTsin/docker_example --> <!-- https://github.com/YarTsin/docker_compose -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=docker_example)](https://github.com/YarTsin/docker_example)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=docker_compose)](https://github.com/YarTsin/docker_compose)
+[Docker Example](https://github.com/YarTsin/docker_example) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Docker Compose](https://github.com/YarTsin/docker_compose) <br>
 
-<!-- https://github.com/YarTsin/kafka_connect -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=kafka_connect)](https://github.com/YarTsin/kafka_connect)
+[Kafka Connect](https://github.com/YarTsin/kafka_connect)
 </details>
 
 <details>
-<summary>MICROSERVISES - and the Spring ecosystem</summary>
+<summary>MICROSERVISES - and the Spring ecosystem</summary><br>
 
-<!-- https://github.com/YarTsin/task_back --> <!-- https://github.com/YarTsin/task_micro --> 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=task_back)](https://github.com/YarTsin/task_back)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=task_micro)](https://github.com/YarTsin/task_micro)
+[Task Monolith](https://github.com/YarTsin/task_back)   &nbsp; and  &nbsp; [Task Microservises](https://github.com/YarTsin/task_micro) <br>
 
-<!-- https://github.com/YarTsin/microservices_start --> <!-- https://github.com/YarTsin/library -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=microservices_start)](https://github.com/YarTsin/microservices_start) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=library)](https://github.com/YarTsin/library)
+[Microservices Start](https://github.com/YarTsin/microservices_start) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Library](https://github.com/YarTsin/library)
 </details>
 
 <details>
-<summary>WEB SCRAPING, parsing</summary>
+<summary>WEB SCRAPING, parsing</summary> <br>
 
-<!-- https://github.com/YarTsin/web-crawler --><!-- https://github.com/YarTsin/jsoup -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=web-crawler)](https://github.com/YarTsin/web-crawler)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=jsoup)](https://github.com/YarTsin/jsoup)
-</details>
-
-
-<details>
-<summary>WORKING WITH DB</summary>
-
-<!-- https://github.com/YarTsin/connect -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=connect)](https://github.com/YarTsin/connect)
-
-<!-- https://github.com/YarTsin/postgresql_lessons --><!-- https://github.com/YarTsin/postgresql_pgadmin -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=postgresql_lessons)](https://github.com/YarTsin/postgresql_lessons)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=postgresql_pgadmin)](https://github.com/YarTsin/postgresql_pgadmin)
+[A collection web crawler, spider and resources in different languages](https://github.com/YarTsin/web-crawler) <br><br>
+[Jsoup](https://github.com/YarTsin/jsoup)
 </details>
 
 <details>
-<summary>INTERVIEW - materials for interviews java developers</summary>
+<summary>WORKING WITH DB</summary> <br>
 
-<!-- https://github.com/YarTsin/interview --><!-- https://github.com/YarTsin/leetcode_java -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=interview)](https://github.com/YarTsin/interview)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=leetcode_java)](https://github.com/YarTsin/leetcode_java)
+[Connecting two or more data sources](https://github.com/YarTsin/connect) <br>
 
-<!-- https://github.com/YarTsin/tinkoff --> <!-- https://github.com/YarTsin/yandex_tasks -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=tinkoff)](https://github.com/YarTsin/tinkoff)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=yandex_tasks)](https://github.com/YarTsin/yandex_tasks)
+[Postgresql Lessons](https://github.com/YarTsin/postgresql_lessons) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [PgAdmin](https://github.com/YarTsin/postgresql_pgadmin)
+</details>
+
+<details>
+<summary>INTERVIEW - materials for interviews java developers</summary> <br>
+
+[1500+ Interview Questions Java](https://github.com/YarTsin/interview) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Solving LeetCode problems in Java](https://github.com/YarTsin/leetcode_java) <br>
+
+[Solve tests and problems from Tinkoff](https://github.com/YarTsin/tinkoff) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Yandex tasks](https://github.com/YarTsin/yandex_tasks)
 </details>
 
 <details>
