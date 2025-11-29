@@ -1,3 +1,5 @@
+<!-- TODO надо сделать самому карточки проектов и заменить счетчик -->
+
 ![](https://komarev.com/ghpvc/?username=yarmail)<br/>
 
 <details>
@@ -100,7 +102,7 @@ protocol: http, https, ssh, tcp/ip, REST, WebSocket, gRPC(elementary)<br>
 model: OSI
 </details>
 
-<!-- TODO надо сделать карточки проектов -->
+
 
 <details>
 <summary>PROJECTS - I demonstrate the application of Java skills in projects</summary><br>
@@ -146,37 +148,25 @@ Various projects<br>
 </details>
 
 <details>
-<summary>FOR BEGINNER DEVELOPERS</summary>
+<summary>FOR BEGINNER DEVELOPERS</summary> <br>
   
-<!-- https://github.com/YarTsin/100ProjectsOfCode -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=100ProjectsOfCode)](https://github.com/YarTsin/100ProjectsOfCode)
+[100 practical programming projects across web, AI, systems, and more.](https://github.com/YarTsin/100ProjectsOfCode) <br>
 
 
-<!-- https://github.com/YarTsin/ubuntu --> <!-- https://github.com/YarTsin/collector_script -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=ubuntu)](https://github.com/YarTsin/ubuntu)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=collector_script)](https://github.com/YarTsin/collector_script)
-
-<!-- https://github.com/YarTsin/microservices_start -->  <!-- https://github.com/YarTsin/spring_hibernate -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=microservices_start)](https://github.com/YarTsin/microservices_start) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=spring_hibernate)](https://github.com/YarTsin/spring_hibernate) 
+[Ubuntu cheat sheet for beginners](https://github.com/YarTsin/ubuntu) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Repackaging the project code for analysis in chatbots](https://github.com/YarTsin/collector_script) <br>
 
 
+[Microservices Start](https://github.com/YarTsin/microservices_start) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Hibernate](https://github.com/YarTsin/spring_hibernate) <br>
 
-<!-- https://github.com/YarTsin/long_file_path --> <!-- https://github.com/YarTsin/robot -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=long_file_path)](https://github.com/YarTsin/long_file_path)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=robot)](https://github.com/YarTsin/robot)
+[Path length checking utility](https://github.com/YarTsin/long_file_path) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Multithreaded Programming - Walking Robot](https://github.com/YarTsin/robot) <br>
 
-<!-- https://github.com/YarTsin/lombok --> <!-- https://github.com/YarTsin/enumclass -->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=lombok)](https://github.com/YarTsin/lombok)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=enumclass)](https://github.com/YarTsin/enumclass)
+[Lombok](https://github.com/YarTsin/lombok) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Enum](https://github.com/YarTsin/enumclass)
 </details>
 
 <details>
-<summary>ALGORITHMS for Beginners</summary>
+<summary>ALGORITHMS for Beginners</summary> <br>
 
-<!-- https://github.com/YarTsin/alg_grok --> <!-- https://github.com/YarTsin/alg_acmp -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=alg_grok)](https://github.com/YarTsin/alg_grok)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarTsin&repo=alg_acmp)](https://github.com/YarTsin/alg_acmp)
+[Grokking Algorithms in Java - Aditya Y. Bhargava](https://github.com/YarTsin/alg_grok) <br><br>
+[1000 algorithmic problems from the site acmp.ru](https://github.com/YarTsin/alg_acmp)
 
 </details>
